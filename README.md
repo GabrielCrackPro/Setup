@@ -8,7 +8,7 @@ All my configurations to setup a computer for personal use
 - Rainmeter - Tool to put widgets in the desktop <a href="https://www.rainmeter.net/">Download</a>
   - Skins: <a href="https://www.deviantart.com/search?q=rainmeter%20skins">Here</a>
 - VirtualBox - Tool to create virtual machines <a href="https://www.virtualbox.org/">Download</a>
-  - Winrar - A tool to compress and decompress files <a href="https://www.winrar.es/">Download</a>
+- Winrar - A tool to compress and decompress files <a href="https://www.winrar.es/">Download</a>
 
 ## Games
 
@@ -20,6 +20,7 @@ All my configurations to setup a computer for personal use
 
 - VLC - A media player <a href="https://www.videolan.org/vlc/">Download</a>
 - Spotify Client <a href="https://www.spotify.com/es/download/windows/">Download</a>
+- GIMP - Images editor <a hrerf="https://www.gimp.org/">Download</a>
 
 ## Development Tools
 
