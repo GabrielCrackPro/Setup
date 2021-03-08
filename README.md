@@ -20,7 +20,7 @@ All my configurations to setup a computer for personal use
 
 - VLC - A media player <a href="https://www.videolan.org/vlc/">Download</a>
 - Spotify Client <a href="https://www.spotify.com/es/download/windows/">Download</a>
-- GIMP - Images editor <a hrerf="https://www.gimp.org/">Download</a>
+- GIMP - Images editor <a href="https://www.gimp.org/">Download</a>
 
 ## Development Tools
 
