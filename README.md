@@ -62,4 +62,4 @@ All my configurations to setup a computer for personal use
   - <code>dev</code> - For development folder
   - <code>zshcf</code> - For ZSH config file
   - <code>neocf</code> - For neofetch config file
-  - <code>root</code> - For ROOT - <code>sudo su/<code>
+  - <code>root</code> - For ROOT - <code>sudo su</code>
