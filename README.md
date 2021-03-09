@@ -36,6 +36,12 @@ All my configurations to setup a computer for personal use
 - WSL - Tool to run linux system on windows <a href="https://docs.microsoft.com/en-us/windows/wsl/install-win10">Download</a>
   - Ubuntu - <a href="https://ubuntu.com/wsl">Dowmload</a>
 - Firefox Developer Edition - A web browser <a href="https://www.mozilla.org/en-US/firefox/developer/">Dowload</a>
+  - Extensions
+    - Tabliss - Custom new tab <a href="https://tabliss.io/">Download</a>
+    - Enhancer for Youtube - Youtube customizer <a href="https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/">Download</a>
+    - DuckDuckGo - Browser <a href="https://addons.mozilla.org/es/firefox/addon/duckduckgo-for-firefox/">Download</a>
+    - FlagFox - See the server country flag <a href="https://addons.mozilla.org/es/firefox/addon/flagfox/">Download</a>
+    - JSONViewer - View text in JSON format <a href="https://addons.mozilla.org/es/firefox/addon/json-viewer-nick/">Download</a>
 - Fluent Terminal - A replacement for CMD <a href="https://github.com/felixse/FluentTerminal">Download</a>
   - Zsh Shell - A comand shell Run <code>sudo apt-get install zsh</code>
   - Ohmyzsh - Tool for customize zsh shell <a href="https://ohmyz.sh/">Download</a>
