@@ -2,7 +2,7 @@
 
 All my configurations to setup a computer for personal use
 
-## Desktop Tools
+## Desktop
 
 - RocketDock - A simple dock to place icons <a href ="https://punklabs.com/downloads/RocketDock-v1.3.5.exe">Download</a>
   - Skins <a href="https://www.deviantart.com/search?q=rocketdock">here</a>
@@ -27,7 +27,7 @@ All my configurations to setup a computer for personal use
 - Spotify Client <a href="https://www.spotify.com/es/download/windows/">Download</a>
 - GIMP - Images editor <a href="https://www.gimp.org/">Download</a>
 
-## Development Tools
+## Development
 
 - Visual Studio Code - A code editor <a href="https://code.visualstudio.com/">Download</a>
   - See VS Code config file <a href="https://github.com/GabrielCrackPro/vscode-settings">here</a>
@@ -62,4 +62,4 @@ All my configurations to setup a computer for personal use
   - <code>dev</code> - For development folder
   - <code>zshcf</code> - For ZSH config file
   - <code>neocf</code> - For neofetch config file
-  - <code>root</code> - For ROOT
+  - <code>root</code> - For ROOT - <code>sudo su/<code>
