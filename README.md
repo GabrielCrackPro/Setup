@@ -20,6 +20,7 @@ All my configurations to setup a computer for personal use
 - Steam <a href="https://store.steampowered.com/about/">Download</a>
 - Epic Games Launcher <a href="https://www.epicgames.com/store/en-US/download">Download</a>
 - IFSCL <a href="https://en.codelyoko.fr/ifscl/download.cl">Download</a>
+- Papers Please <a href="https://papers-please.uptodown.com/windows/descargar">Download</a>
 
 ## Media
 
