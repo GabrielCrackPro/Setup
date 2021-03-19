@@ -2,6 +2,14 @@
 
 All my configurations to setup a computer for personal use
 
+## System
+
+- Disable Windows Privacy Settings
+- <a href="https://github.com/vhanla/TaskbarDock">Customize</a> or hide the taskbar
+- Apply Dark Theme
+  - Check <a href="https://www.youtube.com/watch?v=Kfni0zMFiWM&list=WL&index=18">this</a>
+- <a href="https://github.com/GabrielCrackPro/W10-Debloater">Debloat</a>
+
 ## Desktop
 
 - RocketDock - A simple dock to place icons <a href ="https://punklabs.com/downloads/RocketDock-v1.3.5.exe">Download</a>
