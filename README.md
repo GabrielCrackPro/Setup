@@ -12,6 +12,7 @@ All my configurations to setup a computer for personal use
     3. Fluent Terminal
 - Apply Dark Theme
   - Check <a href="https://www.youtube.com/watch?v=Kfni0zMFiWM&list=WL&index=18">this</a>
+- <a href="https://winaerotweaker.com/">Global Customization</a>
 - <a href="https://github.com/GabrielCrackPro/W10-Debloater">Debloat</a>
 
 ## Desktop
