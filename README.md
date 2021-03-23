@@ -21,7 +21,7 @@ All my configurations to setup a computer for personal use
 - RocketDock - A simple dock to place icons <a href ="https://punklabs.com/Downloads/RocketDock-v1.3.5.exe">Download</a>
   - Skins <a href="https://www.deviantart.com/search?q=rocketdock">here</a>
 - Rainmeter - Tool to put widgets in the desktop <a href="https://www.rainmeter.net/">Download</a>
-  - Skins: <a href="https://www.deviantart.com/search?q=rainmeter%20skins">Here</a>
+  - Skins <a href="https://www.deviantart.com/search?q=rainmeter%20skins">Here</a>
 - VirtualBox - Tool to create virtual machines <a href="https://www.virtualbox.org/">Download</a>
 - Winrar - A tool to compress and decompress files <a href="https://www.winrar.es/">Download</a>
 - qBitTorrent - A tool to download torrent files <a href="https://www.qbittorrent.org/">Download</a>
@@ -77,7 +77,7 @@ All my configurations to setup a computer for personal use
   - Cowsay - A configurable talking cow <code>apt-get install cowsay</code>
   - Fortune - Tool to display random inspirational phrases <code>apt-get install fortune</code> <br>
     **TIP:You can combine <code>fortune</code> and <code>cowsay</code> running <code>fortune|cowsay</code>**
-  - Neofetch - A tool to display system information in ascii <a href="https://github.com/dylanaraps/neofetch">Download</a>
+  - Neofetch - A tool to display system information <a href="https://github.com/dylanaraps/neofetch">Download</a>
 - Aliases
   - <code>dev</code> - For development folder
   - <code>zshcf</code> - For ZSH config file
