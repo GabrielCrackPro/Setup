@@ -57,8 +57,13 @@ All my configurations to setup a computer for personal use
     - DuckDuckGo - Browser <a href="https://addons.mozilla.org/es/firefox/addon/duckduckgo-for-firefox/">Download</a>
     - FlagFox - See the server country flag <a href="https://addons.mozilla.org/es/firefox/addon/flagfox/">Download</a>
     - JSONViewer - View text in JSON format <a href="https://addons.mozilla.org/es/firefox/addon/json-viewer-nick/">Download</a>
+  - Bookmarks
+    - <a href="http://docs.google.com/document/d/1NeflsQZ1i7OnFW1hhSW37zde82VWrXHXrj6hySu7isY/edit">IFSCL Changelog</a>
+    - <a href="http://codewars.com">Codewars</a>
+    - <a href="http://stackoverflow.com/">Stack Overflow</a>
+    - <a href="http://caniuse.com/">Can I use?</a>
 - Fluent Terminal - A replacement for CMD <a href="https://github.com/felixse/FluentTerminal">Download</a>
-  - Zsh Shell - A comand shell Run <code>sudo apt-get install zsh</code>
+  - Zsh Shell - A comand shell <code>sudo apt-get install zsh</code>
   - Ohmyzsh - Tool for customize zsh shell <a href="https://ohmyz.sh/">Download</a>
     - Ohmyzsh custom themes <a href="https://zshthem.es/all/">here</a>
 - Node.JS - A Javascipt framework <a href="https://nodejs.org/en/">Download</a>
@@ -69,8 +74,8 @@ All my configurations to setup a computer for personal use
 - Theme <code>half-life</code>
 - Font <a href="https://github.com/microsoft/cascadia-code">Cascadia Code</a>
 - Tools
-  - Cowsay - A configurable talking cow. Run <code>apt-get install cowsay</code>
-  - Fortune - Tool to display random inspirational phrases. Run <code>apt-get install fortune</code> <br>
+  - Cowsay - A configurable talking cow <code>apt-get install cowsay</code>
+  - Fortune - Tool to display random inspirational phrases <code>apt-get install fortune</code> <br>
     **TIP:You can combine <code>fortune</code> and <code>cowsay</code> running <code>fortune|cowsay</code>**
   - Neofetch - A tool to display system information in ascii <a href="https://github.com/dylanaraps/neofetch">Download</a>
 - Aliases
@@ -78,3 +83,4 @@ All my configurations to setup a computer for personal use
   - <code>zshcf</code> - For ZSH config file
   - <code>neocf</code> - For neofetch config file
   - <code>root</code> - For ROOT - <code>sudo su</code>
+- Optional: Install xrdp server to run Ubuntu wirh desktop enviroment
