@@ -21,7 +21,7 @@ All my configurations to setup a computer for personal use
 - RocketDock - A simple dock to place icons <a href ="https://punklabs.com/Downloads/RocketDock-v1.3.5.exe">Download</a>
   - Skins <a href="https://www.deviantart.com/search?q=rocketdock">here</a>
 - Rainmeter - Tool to put widgets in the desktop <a href="https://www.rainmeter.net/">Download</a>
-  - Skins <a href="https://www.deviantart.com/search?q=rainmeter%20skins">Here</a>
+  - Skins <a href="https://www.deviantart.com/search?q=rainmeter%20skins">here</a>
 - VirtualBox - Tool to create virtual machines <a href="https://www.virtualbox.org/">Download</a>
 - Winrar - A tool to compress and decompress files <a href="https://www.winrar.es/">Download</a>
 - qBitTorrent - A tool to download torrent files <a href="https://www.qbittorrent.org/">Download</a>
@@ -83,4 +83,6 @@ All my configurations to setup a computer for personal use
   - <code>zshcf</code> - For ZSH config file
   - <code>neocf</code> - For neofetch config file
   - <code>root</code> - For ROOT - <code>sudo su</code>
-- Optional: Install xrdp server to run Ubuntu wirh desktop enviroment
+  ## Optional
+  - Install <code>xrdp</code> server to run Ubuntu wirh desktop enviroment - <a href="https://xfce.org/">XFCE</a>
+  - Install <a href="https://archlinux.org/">Arch Linux</a> in VM
