@@ -23,6 +23,9 @@ All my configurations to setup a computer for personal use
 - Rainmeter - Tool to put widgets in the desktop <a href="https://www.rainmeter.net/">Download</a>
   - Skins <a href="https://www.deviantart.com/search?q=rainmeter%20skins">here</a>
 - VirtualBox - Tool to create virtual machines <a href="https://www.virtualbox.org/">Download</a>
+  - <a href="https://ubuntu.com/">Ubuntu</a>
+  - <a href="https://www.kali.org/">Kali Linux</a>
+  - <a href="https://linuxmint.com/">Linux Mint</a>
 - Winrar - A tool to compress and decompress files <a href="https://www.winrar.es/">Download</a>
 - qBitTorrent - A tool to download torrent files <a href="https://www.qbittorrent.org/">Download</a>
 - Avast - Free Antivirus <a href="https://www.avast.com/es-es/index#pc">Download</a>
@@ -83,6 +86,8 @@ All my configurations to setup a computer for personal use
   - <code>zshcf</code> - For ZSH config file
   - <code>neocf</code> - For neofetch config file
   - <code>root</code> - For ROOT - <code>sudo su</code>
-  ## Optional
-  - Install <code>xrdp</code> server to run Ubuntu wirh desktop enviroment - <a href="https://xfce.org/">XFCE</a>
-  - Install <a href="https://archlinux.org/">Arch Linux</a> in VM
+
+## Optional
+
+- Install <code>xrdp</code> server to run Ubuntu wirh desktop enviroment - <a href="https://xfce.org/">XFCE</a>
+- Install <a href="https://archlinux.org/">Arch Linux</a> in VM
