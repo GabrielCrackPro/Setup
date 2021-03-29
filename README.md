@@ -95,6 +95,11 @@ Inspired by <a href="https://www.youtube.com/watch?v=tMNOpaQrfAE">CodingGarden</
   - Position: left
   - Auto Hide: On
   - Install all possible apps mentioned above
+- Other apps
+  - <a href="https://www.alfredapp.com/">Alfred</a>
+  - <a href="https://www.spectacleapp.com/">Spectacle</a>
+  - <a href="https://matthewpalmer.net/vanilla/">Vanilla</a>
+  - <a href="https://www.balena.io/etcher/">Etcher</a>
 
 ## Optional
 
