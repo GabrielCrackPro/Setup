@@ -87,6 +87,15 @@ All my configurations to setup a computer for personal use
   - <code>neocf</code> - For neofetch config file
   - <code>root</code> - For ROOT - <code>sudo su</code>
 
+## Mac Setup
+
+Inspired by <a href="https://www.youtube.com/watch?v=tMNOpaQrfAE">CodingGarden</a>
+
+- Dock
+  - Position: left
+  - Auto Hide: On
+  - Install all possible apps mentioned above
+
 ## Optional
 
 - Install <code>xrdp</code> server to run Ubuntu wirh desktop enviroment - <a href="https://xfce.org/">XFCE</a>
