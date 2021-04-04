@@ -66,7 +66,10 @@ All my configurations to setup a computer for personal use
     - <a href="http://stackoverflow.com/">Stack Overflow</a>
     - <a href="http://caniuse.com/">Can I use?</a>
 - Fluent Terminal - A replacement for CMD <a href="https://github.com/felixse/FluentTerminal">Windows</a>
-  - Zsh Shell - A comand shell <code>sudo apt-get install zsh</code>
+  - Zsh Shell - A comand shell
+  ```
+  sudo apt-get install zsh / brew install zsh
+  ```
   - Ohmyzsh - Tool for customize zsh shell <a href="https://ohmyz.sh/#install">Download</a> <br>
     Or run:
     ```
@@ -83,14 +86,14 @@ All my configurations to setup a computer for personal use
 - Tools
   - Cowsay - A configurable talking cow
   ```
-  apt-get install cowsay
+  apt-get install cowsay / brew install cowsay
   ```
   - Fortune - Tool to display random inspirational phrases
   ```
-  apt-get install cowsay
+  apt-get install fortune / brew install fortune
   ```
-  **TIP:You can combine fortune and cowsay running <code>fortune|cowsay</code>**
-  - Neofetch - A tool to display system information <a href="https://github.com/dylanaraps/neofetch">Download</a>
+  TIP:You can combine fortune and cowsay running <code>fortune|cowsay</code>
+  - Neofetch - A tool to display system information <a href="https://github.com/dylanaraps/neofetch">Github Repo</a>
 - Aliases
   - <code>dev</code> - For development folder
   - <code>zshcf</code> - For ZSH config file
@@ -99,15 +102,23 @@ All my configurations to setup a computer for personal use
 
 ## Mac Only Setup
 
-Inspired by <a href="https://www.youtube.com/watch?v=tMNOpaQrfAE">CodingGarden</a>
+Inspired by <a href="https://www.youtube.com/watch?v=tMNOpaQrfAE">CodingGarden</a> <br>
+Check for updates first - <code>softwareupdate -l</code>
 
 - Dock
   - Position: left
   - Auto Hide: On
   - Install all possible apps mentioned above
 - Mac exclusive apps
+
   - <a href="https://iterm2.com/downloads/stable/latest">iTerm2</a>
   - <a href="https://cachefly.alfredapp.com/Alfred_4.3.2_1221.dmg">Alfred</a>
   - <a href="https://s3.amazonaws.com/spectacle/downloads/Spectacle+1.2.zip">Spectacle</a>
   - <a href="https://macrelease.matthewpalmer.net/Vanilla.dmg">Vanilla</a>
   - <a href="https://github.com/balena-io/etcher/releases/download/v1.5.116/balenaEtcher-1.5.116.dmg?d_id=a9e5cf18-4a68-46b1-a573-c46b03fc2685R">Etcher</a>
+
+- HomeBrew package manager
+
+```
+"$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
