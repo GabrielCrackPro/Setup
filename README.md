@@ -116,6 +116,7 @@ Check for updates first - <code>softwareupdate -l</code>
   - <a href="https://s3.amazonaws.com/spectacle/downloads/Spectacle+1.2.zip">Spectacle</a>
   - <a href="https://macrelease.matthewpalmer.net/Vanilla.dmg">Vanilla</a>
   - <a href="https://github.com/balena-io/etcher/releases/download/v1.5.116/balenaEtcher-1.5.116.dmg?d_id=a9e5cf18-4a68-46b1-a573-c46b03fc2685R">Etcher</a>
+  - <a href="https://www.mediaatelier.com/CheatSheet/?lang=en">CheatSheet</a>
 
 - HomeBrew package manager
 
