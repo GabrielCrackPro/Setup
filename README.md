@@ -130,6 +130,8 @@ Note: All tools mentioned above can be installed by running
 mac-install.sh OR advanced.sh (for advanced users)
 ```
 
+Note: Advanced script taked for <a href="https://github.com/adamisntdead/DevMyMac">adamisntdead</a>
+
 - Scripts content
   - xcode tools
   - Homebrew
