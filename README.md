@@ -129,6 +129,8 @@ Note: All tools mentioned above can be installed by running <code>mac-install.sh
 - Script content
   - xcode developer tools
   - Homebrew
+  - fortune
+  - cowsay
   - iTerm 2
   - vcprompt
   - Spectacle
