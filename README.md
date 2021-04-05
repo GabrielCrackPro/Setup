@@ -127,15 +127,13 @@ Check for updates first - <code>softwareupdate -l</code>
 Note: All tools mentioned above can be installed by running <code>mac-install.sh</code>
 
 - Script content
-  - xcode developer tools
+  - xcode tools
   - Homebrew
   - fortune
   - cowsay
   - iTerm 2
-  - vcprompt
   - Spectacle
   - Alfred
   - Firefox
-  - Last bash version
   - Last NodeJs version
   - Visual Studio Code
