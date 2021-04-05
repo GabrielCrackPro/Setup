@@ -124,9 +124,13 @@ Check for updates first - <code>softwareupdate -l</code>
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-Note: All tools mentioned above can be installed by running <code>mac-install.sh</code>
+Note: All tools mentioned above can be installed by running
 
-- Script content
+```
+mac-install.sh / advanced.sh (for advanced users)
+```
+
+- Scripts content
   - xcode tools
   - Homebrew
   - fortune
