@@ -127,7 +127,7 @@ Check for updates first - <code>softwareupdate -l</code>
 Note: All tools mentioned above can be installed by running
 
 ```
-mac-install.sh / advanced.sh (for advanced users)
+mac-install.sh OR advanced.sh (for advanced users)
 ```
 
 - Scripts content
