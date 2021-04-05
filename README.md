@@ -121,7 +121,7 @@ Check for updates first - <code>softwareupdate -l</code>
 - HomeBrew Package Manager
 
 ```
-"$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
 Note: All tools mentioned above can be installed by running <code>mac-install.sh</code>
