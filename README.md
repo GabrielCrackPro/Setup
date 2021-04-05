@@ -86,11 +86,11 @@ All my configurations to setup a computer for personal use
 - Tools
   - Cowsay - A configurable talking cow
   ```
-  apt-get install cowsay / brew install cowsay
+  apt-get install cowsay OR brew install cowsay
   ```
   - Fortune - Tool to display random inspirational phrases
   ```
-  apt-get install fortune / brew install fortune
+  apt-get install fortune OR brew install fortune
   ```
   TIP:You can combine fortune and cowsay running <code>fortune|cowsay</code>
   - Neofetch - A tool to display system information <a href="https://github.com/dylanaraps/neofetch">Github Repo</a>
