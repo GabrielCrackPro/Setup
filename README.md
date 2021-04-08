@@ -55,11 +55,10 @@ All my configurations to setup a computer for personal use
   - Ubuntu - <a href="https://ubuntu.com/wsl">Dowmload</a>
 - Firefox Developer Edition - A web browser <a href="https://download.mozilla.org/?product=firefox-devedition-stub&os=win&lang=es-ES&attribution_code=c291cmNlPWR1Y2tkdWNrZ28uY29tJm1lZGl1bT1yZWZlcnJhbCZjYW1wYWlnbj0obm90IHNldCkmY29udGVudD0obm90IHNldCkmZXhwZXJpbWVudD0obm90IHNldCkmdmFyaWF0aW9uPShub3Qgc2V0KSZ1YT1maXJlZm94JnZpc2l0X2lkPShub3Qgc2V0KQ..&attribution_sig=6027a4aa26d767927d7d03c1c922fe132e811d4c20e2eaaac33ec1be9cd815d4">Windows</a> | <a href="https://download.mozilla.org/?product=firefox-latest-ssl&os=osx&lang=es-ES">MacOs</a>
   - Extensions
-    - Tabliss - Custom new tab <a href="https://tabliss.io/">Download</a>
-    - Enhancer for Youtube - Youtube customizer <a href="https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/">Download</a>
-    - DuckDuckGo - Browser <a href="https://addons.mozilla.org/es/firefox/addon/duckduckgo-for-firefox/">Download</a>
-    - FlagFox - See the server country flag <a href="https://addons.mozilla.org/es/firefox/addon/flagfox/">Download</a>
-    - JSONViewer - View text in JSON format <a href="https://addons.mozilla.org/es/firefox/addon/json-viewer-nick/">Download</a>
+    - Tabliss - Custom new tab <a href="https://tabliss.io/">Add</a>
+    - Enhancer for Youtube - Youtube customizer <a href="https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/">Add</a>
+    - DuckDuckGo - Browser <a href="https://addons.mozilla.org/es/firefox/addon/duckduckgo-for-firefox/">Add</a>
+    - FlagFox - See the server country flag <a href="https://addons.mozilla.org/es/firefox/addon/flagfox/">Add</a>
   - Bookmarks
     - <a href="http://docs.google.com/document/d/1NeflsQZ1i7OnFW1hhSW37zde82VWrXHXrj6hySu7isY/edit">IFSCL Changelog</a>
     - <a href="http://codewars.com">Codewars</a>
@@ -130,7 +129,7 @@ Note: All tools mentioned above can be installed by running
 mac-install.sh OR advanced.sh (for advanced users)
 ```
 
-Note: Advanced script taked for <a href="https://github.com/adamisntdead/DevMyMac">adamisntdead</a>
+Note: Advanced script taked from <a href="https://github.com/adamisntdead/DevMyMac">DevMyMac by adamisntdead</a>
 
 - Scripts content
   - xcode tools
