@@ -19,6 +19,8 @@ All my configurations to setup a computer for personal use
 
 - Wallpapers - My personal collection of wallpapers <a href="https://drive.google.com/drive/folders/18JwNTWYwK5xcWDfwWmcG69SPVEeNZEwD?usp=sharing" target ="blank">Download</a>
 - 7+ TaskBar Tweaker - Customize taskbar <a href="https://tweaker.rammichael.com/">Windows</a>
+- Files - Replace Windows Explorer - <a href="https://www.microsoft.com/es-es/p/files/9nghp3dx8hdx?cid=eartrumpet.landing&activetab=pivot:overviewtab#
+  ">Windows</a>
 - RocketDock - A simple dock to place icons <a href ="https://punklabs.com/Downloads/RocketDock-v1.3.5.exe">Download</a>
   - Skins <a href="https://www.deviantart.com/search?q=rocketdock">here</a>
 - Rainmeter - Tool to put widgets in the desktop <a href="https://www.rainmeter.net/">Download</a>
@@ -33,6 +35,8 @@ All my configurations to setup a computer for personal use
 - Rufus - A tool to create booteable pendrives <a href="https://rufus.ie/">Windows</a>
 - WSCC - System control center <a href="https://www.kls-soft.com/wscc/downloads.php?dlf=wscc_setup.exe&dlt=WSCC%20(Setup)">Windows</a>
 - QuickLook - Preview files like MacOs <a href="https://github.com/QL-Win/QuickLook">Windows</a>
+- EarTrumpet - Combine all volume panels - <a href="https://www.microsoft.com/es-es/p/eartrumpet/9nblggh516xp?cid=eartrumpet.landing&rtc=1&activetab=pivot:overviewtab">Windows</a>
+- ModernFlyouts - Replace system volume controls - <a href="https://www.microsoft.com/es-es/p/modernflyouts-preview/9mt60qv066rp?activetab=pivot:overviewtab">Windows</a>
 
 ## Games
 
