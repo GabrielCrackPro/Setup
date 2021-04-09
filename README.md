@@ -18,6 +18,7 @@ All my configurations to setup a computer for personal use
 ## Desktop
 
 - Wallpapers - My personal collection of wallpapers <a href="https://drive.google.com/drive/folders/18JwNTWYwK5xcWDfwWmcG69SPVEeNZEwD?usp=sharing" target ="blank">Download</a>
+- 7+ TaskBar Tweaker - Customize taskbar <a href="https://tweaker.rammichael.com/">Windows</a>
 - RocketDock - A simple dock to place icons <a href ="https://punklabs.com/Downloads/RocketDock-v1.3.5.exe">Download</a>
   - Skins <a href="https://www.deviantart.com/search?q=rocketdock">here</a>
 - Rainmeter - Tool to put widgets in the desktop <a href="https://www.rainmeter.net/">Download</a>
@@ -31,6 +32,7 @@ All my configurations to setup a computer for personal use
 - Avast - Free Antivirus <a href="https://www.avast.com/es-es/index#pc">Windows</a>
 - Rufus - A tool to create booteable pendrives <a href="https://rufus.ie/">Windows</a>
 - WSCC - System control center <a href="https://www.kls-soft.com/wscc/downloads.php?dlf=wscc_setup.exe&dlt=WSCC%20(Setup)">Windows</a>
+- QuickLook - Preview files like MacOs <a href="https://github.com/QL-Win/QuickLook">Windows</a>
 
 ## Games
 
@@ -47,6 +49,7 @@ All my configurations to setup a computer for personal use
 
 ## Development
 
+- <a href="https://github.com/GabrielCrackPro/Clone-All">Clone Repositories</a>
 - Visual Studio Code - A code editor <a href="https://code.visualstudio.com/docs/?dv=win">Windows</a> | <a href="https://code.visualstudio.com/docs/?dv=osx">MacOs</a>
   - See VS Code config file <a href="https://github.com/GabrielCrackPro/vscode-settings">here</a>
 - Git - Version Control Tool <a href="https://git-scm.com/download/win">Windows</a> | <a href="https://git-scm.com/download/mac">MacOs</a>
