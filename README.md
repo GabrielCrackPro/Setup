@@ -36,7 +36,6 @@ All my configurations to setup a computer for personal use
 - WSCC - System control center <a href="https://www.kls-soft.com/wscc/downloads.php?dlf=wscc_setup.exe&dlt=WSCC%20(Setup)">Windows</a>
 - QuickLook - Preview files like MacOs <a href="https://github.com/QL-Win/QuickLook">Windows</a>
 - EarTrumpet - Combine all volume panels - <a href="https://www.microsoft.com/es-es/p/eartrumpet/9nblggh516xp?cid=eartrumpet.landing&rtc=1&activetab=pivot:overviewtab">Windows</a>
-- ModernFlyouts - Replace system volume controls - <a href="https://www.microsoft.com/es-es/p/modernflyouts-preview/9mt60qv066rp?activetab=pivot:overviewtab">Windows</a>
 
 ## Games
 
