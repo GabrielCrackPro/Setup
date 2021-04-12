@@ -22,8 +22,6 @@ All my configurations to setup a computer for personal use
   ">Windows</a>
 - RocketDock - A simple dock to place icons <a href ="https://punklabs.com/Downloads/RocketDock-v1.3.5.exe">Download</a>
   - Search skins <a href="https://www.deviantart.com/search?q=rocketdock">here</a>
-- Rainmeter - Tool to put widgets in the desktop <a href="https://www.rainmeter.net/">Download</a>
-  - Skins <a href="https://www.deviantart.com/search?q=rainmeter%20skins">here</a>
 - VirtualBox - Tool to create virtual machines <a href="https://download.virtualbox.org/virtualbox/6.1.18/VirtualBox-6.1.18-142142-Win.exe">Windows</a> | <a href="https://download.virtualbox.org/virtualbox/6.1.18/VirtualBox-6.1.18-142142-OSX.dmg">MacOs</a>
   - <a href="https://ubuntu.com/">Ubuntu</a>
   - <a href="https://www.kali.org/">Kali Linux</a>
