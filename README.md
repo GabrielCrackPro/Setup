@@ -11,7 +11,6 @@ All my configurations to setup a computer for personal use
     2. Firefox Developer Edition
     3. Fluent Terminal
 - Apply Dark Theme
-  - Check <a href="https://www.youtube.com/watch?v=Kfni0zMFiWM&list=WL&index=18">this</a>
 - <a href="https://winaerotweaker.com/">Global Customization</a>
 - <a href="https://github.com/GabrielCrackPro/W10-Debloater">Debloat</a>
 
@@ -22,7 +21,7 @@ All my configurations to setup a computer for personal use
 - Files - Replace Windows Explorer - <a href="https://www.microsoft.com/es-es/p/files/9nghp3dx8hdx?cid=eartrumpet.landing&activetab=pivot:overviewtab#
   ">Windows</a>
 - RocketDock - A simple dock to place icons <a href ="https://punklabs.com/Downloads/RocketDock-v1.3.5.exe">Download</a>
-  - Skins <a href="https://www.deviantart.com/search?q=rocketdock">here</a>
+  - Search skins <a href="https://www.deviantart.com/search?q=rocketdock">here</a>
 - Rainmeter - Tool to put widgets in the desktop <a href="https://www.rainmeter.net/">Download</a>
   - Skins <a href="https://www.deviantart.com/search?q=rainmeter%20skins">here</a>
 - VirtualBox - Tool to create virtual machines <a href="https://download.virtualbox.org/virtualbox/6.1.18/VirtualBox-6.1.18-142142-Win.exe">Windows</a> | <a href="https://download.virtualbox.org/virtualbox/6.1.18/VirtualBox-6.1.18-142142-OSX.dmg">MacOs</a>
