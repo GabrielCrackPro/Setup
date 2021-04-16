@@ -63,6 +63,7 @@ All my configurations to setup a computer for personal use
     - Enhancer for Youtube - Youtube customizer <a href="https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/">Add</a>
     - DuckDuckGo - Browser <a href="https://addons.mozilla.org/es/firefox/addon/duckduckgo-for-firefox/">Add</a>
     - FlagFox - See the server country flag <a href="https://addons.mozilla.org/es/firefox/addon/flagfox/">Add</a>
+    - LastPass - Password Manager <a href="https://addons.mozilla.org/es/firefox/addon/lastpass-password-manager/">Add</a>
   - Bookmarks
     - <a href="http://docs.google.com/document/d/1NeflsQZ1i7OnFW1hhSW37zde82VWrXHXrj6hySu7isY/edit">IFSCL Changelog</a>
     - <a href="http://codewars.com">Codewars</a>
