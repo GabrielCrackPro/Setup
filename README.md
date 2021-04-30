@@ -41,7 +41,7 @@ All my configurations to setup a computer for personal use
 - Epic Games Launcher <a href="https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncherInstaller.msi">Windows</a>
 - IFSCL <a href="https://ifscl.b-cdn.net/kolossus/Kolossus_152_197_Win.exe">Windows</a> | <a href="https://ifscl.b-cdn.net/kolossus/Kolossus_152_72_MacOS.zip">MacOs</a>
 - Papers Please <a href="https://www.mediafire.com/file/fvn6tmt9y9uk12z/Papers_Please.rar/file">Windows</a>
-- League Of Legends <a href="https://lol.secure.dyn.riotcdn.net">Windows</a> | <a href="https://lol.secure.dyn.riotcdn.net/channels/public/x/installer/current/live.euw.zip">MacOs</a>
+- League Of Legends <a href="https://signup.euw.leagueoflegends.com/es/signup/redownload">Windows</a> | <a href="https://lol.secure.dyn.riotcdn.net/channels/public/x/installer/current/live.euw.zip">MacOs</a>
 
 ## Media
 
