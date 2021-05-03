@@ -17,10 +17,11 @@ All my configurations to setup a computer for personal use
 ## Desktop
 
 - Wallpapers - My personal collection of wallpapers <a href="https://drive.google.com/drive/folders/18JwNTWYwK5xcWDfwWmcG69SPVEeNZEwD?usp=sharing" target ="blank">Download</a>
+- League Displays - LoL Wallpapers and screensavers app <a href="https://screensaver.riotgames.com/v2/installer/latest/League%20Displays.exe">Windows</a> | <a href="https://screensaver.riotgames.com/v2/installer/latest/League%20Displays.dmg">MacOs</a>
 - 7+ TaskBar Tweaker - Customize taskbar <a href="https://tweaker.rammichael.com/">Windows</a>
 - Files - Replace Windows Explorer - <a href="https://www.microsoft.com/es-es/p/files/9nghp3dx8hdx?cid=eartrumpet.landing&activetab=pivot:overviewtab#
   ">Windows</a>
-- RocketDock - A simple dock to place icons <a href ="https://punklabs.com/Downloads/RocketDock-v1.3.5.exe">Download</a>
+- Nexus - A simple dock to place icons <a href ="https://nexus-dock.uptodown.com/windows">Download</a>
   - Search skins <a href="https://www.deviantart.com/search?q=rocketdock">here</a>
 - VirtualBox - Tool to create virtual machines <a href="https://download.virtualbox.org/virtualbox/6.1.18/VirtualBox-6.1.18-142142-Win.exe">Windows</a> | <a href="https://download.virtualbox.org/virtualbox/6.1.18/VirtualBox-6.1.18-142142-OSX.dmg">MacOs</a>
   - <a href="https://ubuntu.com/">Ubuntu</a>
