@@ -2,9 +2,9 @@
 
 All my configurations to setup a computer for personal use
 
-## System
+### System - Windows
 
-- Disable Windows Privacy Settings
+- Update Privacy Settings
 - <a href="https://github.com/vhanla/TaskbarDock">Customize</a> or hide the taskbar
   - Taskbar Order
     1. Explorer
@@ -14,15 +14,11 @@ All my configurations to setup a computer for personal use
 - <a href="https://winaerotweaker.com/">Global Customization</a>
 - <a href="https://github.com/GabrielCrackPro/W10-Debloater">Debloat</a>
 
-## Desktop
+### Desktop
 
 - Wallpapers - My personal collection of wallpapers <a href="https://drive.google.com/drive/folders/18JwNTWYwK5xcWDfwWmcG69SPVEeNZEwD?usp=sharing" target ="blank">Download</a>
-- League Displays - LoL Wallpapers and screensavers app <a href="https://screensaver.riotgames.com/v2/installer/latest/League%20Displays.exe">Windows</a> | <a href="https://screensaver.riotgames.com/v2/installer/latest/League%20Displays.dmg">MacOs</a>
 - 7+ TaskBar Tweaker - Customize taskbar <a href="https://tweaker.rammichael.com/">Windows</a>
-- Files - Replace Windows Explorer - <a href="https://www.microsoft.com/es-es/p/files/9nghp3dx8hdx?cid=eartrumpet.landing&activetab=pivot:overviewtab#
-  ">Windows</a>
 - Nexus - A simple dock to place icons <a href ="https://nexus-dock.uptodown.com/windows">Download</a>
-  - Search skins <a href="https://www.deviantart.com/search?q=rocketdock">here</a>
 - VirtualBox - Tool to create virtual machines <a href="https://download.virtualbox.org/virtualbox/6.1.18/VirtualBox-6.1.18-142142-Win.exe">Windows</a> | <a href="https://download.virtualbox.org/virtualbox/6.1.18/VirtualBox-6.1.18-142142-OSX.dmg">MacOs</a>
   - <a href="https://ubuntu.com/">Ubuntu</a>
   - <a href="https://www.kali.org/">Kali Linux</a>
@@ -32,25 +28,23 @@ All my configurations to setup a computer for personal use
 - Avast - Free Antivirus <a href="https://www.avast.com/es-es/index#pc">Windows</a>
 - Rufus - A tool to create booteable pendrives <a href="https://rufus.ie/">Windows</a>
 - WSCC - System control center <a href="https://www.kls-soft.com/wscc/downloads.php?dlf=wscc_setup.exe&dlt=WSCC%20(Setup)">Windows</a>
-- QuickLook - Preview files like MacOs <a href="https://github.com/QL-Win/QuickLook">Windows</a>
 - EarTrumpet - Combine all volume panels - <a href="https://www.microsoft.com/es-es/p/eartrumpet/9nblggh516xp?cid=eartrumpet.landing&rtc=1&activetab=pivot:overviewtab">Windows</a>
 - Ueli - Windows Alfred version <a href="https://github.com/oliverschwendener/ueli">Windows</a>
 
-## Games
+### Games
 
 - Steam <a href="https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe">Windows</a> | <a href="https://cdn.akamai.steamstatic.com/client/installer/steam.dmg">MacOs</a>
 - Epic Games Launcher <a href="https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncherInstaller.msi">Windows</a>
 - IFSCL <a href="https://ifscl.b-cdn.net/kolossus/Kolossus_152_197_Win.exe">Windows</a> | <a href="https://ifscl.b-cdn.net/kolossus/Kolossus_152_72_MacOS.zip">MacOs</a>
-- Papers Please <a href="https://www.mediafire.com/file/fvn6tmt9y9uk12z/Papers_Please.rar/file">Windows</a>
 - League Of Legends <a href="https://signup.euw.leagueoflegends.com/es/signup/redownload">Windows</a> | <a href="https://lol.secure.dyn.riotcdn.net/channels/public/x/installer/current/live.euw.zip">MacOs</a>
 
-## Media
+### Media
 
 - VLC - A media player <a href="https://get.videolan.org/vlc/3.0.12/win64/vlc-3.0.12-win64.exe">Windows</a> | <a href="https://get.videolan.org/vlc/3.0.12.1/macosx/vlc-3.0.12.1-arm64.dmg">MacOs</a>
 - Spotify Client <a href="https://www.spotify.com/es/download/windows/">Windows</a> | <a href="https://www.spotify.com/es/download/mac/">MacOs</a>
 - GIMP - Images editor <a href="https://download.gimp.org/mirror/pub/gimp/v2.10/windows/gimp-2.10.24-setup-2.exe">Windows</a> | <a href="https://download.gimp.org/mirror/pub/gimp/v2.10/osx/gimp-2.10.22-x86_64-3.dmg">MacOs</a>
 
-## Development
+### Development
 
 - <a href="https://github.com/GabrielCrackPro/Clone-All">Clone Repositories</a>
 - Visual Studio Code - A code editor <a href="https://code.visualstudio.com/docs/?dv=win">Windows</a> | <a href="https://code.visualstudio.com/docs/?dv=osx">MacOs</a>
@@ -70,24 +64,30 @@ All my configurations to setup a computer for personal use
     - <a href="http://docs.google.com/document/d/1NeflsQZ1i7OnFW1hhSW37zde82VWrXHXrj6hySu7isY/edit">IFSCL Changelog</a>
     - <a href="http://codewars.com">Codewars</a>
     - <a href="http://stackoverflow.com/">Stack Overflow</a>
-    - <a href="http://caniuse.com/">Can I use?</a>
 - Fluent Terminal - A replacement for CMD <a href="https://github.com/felixse/FluentTerminal">Windows</a>
   - Zsh Shell - A comand shell
   ```
   sudo apt-get install zsh / brew install zsh
   ```
-  - Ohmyzsh - Tool for customize zsh shell <a href="https://ohmyz.sh/#install">Download</a> <br>
-    Or run:
-    ```
-    $ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-    ```
-    - Ohmyzsh custom themes <a href="https://zshthem.es/all/">here</a>
 - Node.JS - A Javascipt framework <a href="https://nodejs.org/dist/v14.16.0/node-v14.16.0-x64.msi">Windows</a> | <a href="https://nodejs.org/dist/v14.16.0/node-v14.16.0.pkg">MacOs</a>
 - Python IDE - A IDE for work in Python <a href="https://www.python.org/downloads/windows/">Windows</a> | <a href="https://www.python.org/downloads/mac-osx/">MacOs</a>
 
-## Terminal
+### Terminal
 
-- Theme <code>half-life</code>
+- Ohmyzsh - Tool for customize zsh shell <a href="https://ohmyz.sh/#install">Download</a> <br>
+  Or run:
+  ```
+  $ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+  ```
+  - Ohmyzsh custom themes <a href="https://zshthem.es/all/">here</a>
+- Theme <a href="https://github.com/romkatv/powerlevel10k" target="blank">powerlevel10k</a> <br>
+  You can also install it using homebrew
+
+```
+brew install romkatv/powerlevel10k/powerlevel10k
+echo "source $(brew --prefix)/opt/powerlevel10k/powerlevel10k.zsh-theme" >>~/.zshrc
+```
+
 - Font <a href="https://github.com/microsoft/cascadia-code">Cascadia Code</a>
 - Tools
   - Cowsay - A configurable talking cow
@@ -106,7 +106,7 @@ All my configurations to setup a computer for personal use
   - <code>neocf</code> - For neofetch config file
   - <code>root</code> - For ROOT - <code>sudo su</code>
 
-## Mac Only Setup
+## Mac Only
 
 Inspired by <a href="https://www.youtube.com/watch?v=tMNOpaQrfAE">CodingGarden</a> <br>
 Check for updates first - <code>softwareupdate -l</code>
@@ -120,8 +120,6 @@ Check for updates first - <code>softwareupdate -l</code>
   - <a href="https://iterm2.com/downloads/stable/latest">iTerm2</a>
   - <a href="https://cachefly.alfredapp.com/Alfred_4.3.2_1221.dmg">Alfred</a>
   - <a href="https://s3.amazonaws.com/spectacle/downloads/Spectacle+1.2.zip">Spectacle</a>
-  - <a href="https://macrelease.matthewpalmer.net/Vanilla.dmg">Vanilla</a>
-  - <a href="https://github.com/balena-io/etcher/releases/download/v1.5.116/balenaEtcher-1.5.116.dmg?d_id=a9e5cf18-4a68-46b1-a573-c46b03fc2685R">Etcher</a>
   - <a href="https://www.mediaatelier.com/CheatSheet/?lang=en">CheatSheet</a>
 
 - HomeBrew Package Manager
@@ -138,7 +136,7 @@ mac-install.sh OR advanced.sh (for advanced users)
 
 Note: Advanced script taked from <a href="https://github.com/adamisntdead/DevMyMac">DevMyMac by adamisntdead</a>
 
-- Scripts content
+- Scripts content:
   - xcode tools
   - Homebrew
   - fortune
