@@ -2,6 +2,29 @@
 
 All my configurations to setup a computer for personal use
 
+### My Computers
+
+- Windows - <a href="https://www.amazon.es/Acer-Aspire-E15-Ordenador-Port%C3%A1til/dp/B01MYN9IRR" target="blank">Acer Aspire E15</a>
+  - O.S: Windows 10 20H2
+  - Processor: Intel i5 7200U
+  - RAM: 8GB DDR4
+  - Storage: 1TB HDD
+  - GPU: Nvidia GT940MX 2GB VRAM
+  - Screen Size: 15.6''
+- MacOS - <a href="https://www.apple.com/macbook-pro-13/" target="blank">MacBook Pro 13'' M1 2020</a>
+  - O.S: MacOs 11.4 BigSur
+  - Processor: M1
+  - RAM: 8GB DDR4
+  - Storage: 256GB SSD
+  - GPU: M1
+  - Screen Size: 13.3''
+  - Additional: TouchBar and TouchID
+
+### Accesories
+
+- External Mechanical Keyboard: <a href="https://www.amazon.com/-/es/dp/B07YNW3L2P/ref=sr_1_15?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=37EGEH1CWEW1N&dchild=1&keywords=teclado+mecanico&qid=1625867875&refinements=p_n_feature_fourteen_browse-bin%3A21465205011%2Cp_36%3A2500-3000&rnid=386453011&s=videogames&sprefix=teclado+%2Caps%2C316&sr=1-15" target="blank">Redragon K509-RGB</a>
+- External Dysplays: SOON
+
 ### System - Windows
 
 - Update Privacy Settings
