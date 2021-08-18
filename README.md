@@ -72,6 +72,7 @@ All my configurations to setup a computer for personal use
 - <a href="https://github.com/GabrielCrackPro/Clone-All">Clone Repositories</a>
 - Visual Studio Code - A code editor <a href="https://code.visualstudio.com/docs/?dv=win">Windows</a> | <a href="https://code.visualstudio.com/docs/?dv=osx">MacOs</a>
   - See VS Code config file <a href="https://github.com/GabrielCrackPro/vscode-settings">here</a>
+- Vim - Terminal text editor
 - Git - Version Control Tool <a href="https://git-scm.com/download/win">Windows</a> | <a href="https://git-scm.com/download/mac">MacOs</a>
   - Note: Disable two-factor-auth to login into terminal
 - WSL - Tool to run linux system on windows <a href="https://docs.microsoft.com/es-es/windows/wsl/install-win10">Windows</a>
