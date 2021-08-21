@@ -130,7 +130,7 @@ echo "source $(brew --prefix)/opt/powerlevel10k/powerlevel10k.zsh-theme" >>~/.zs
   - <code>neocf</code> - For neofetch config file
   - <code>root</code> - For ROOT - <code>sudo su</code>
 
-## Mac Only
+## System - MacOs
 
 Inspired by <a href="https://www.youtube.com/watch?v=tMNOpaQrfAE">CodingGarden</a> <br>
 Check for updates first - <code>softwareupdate -l</code>
@@ -138,15 +138,13 @@ Check for updates first - <code>softwareupdate -l</code>
 - Dock
   - Position: left
   - Auto Hide: On
-  - Install all possible apps mentioned above
 - Mac exclusive apps
-
   - <a href="https://iterm2.com/downloads/stable/latest">iTerm2</a>
   - <a href="https://cachefly.alfredapp.com/Alfred_4.3.2_1221.dmg">Alfred</a>
   - <a href="https://github.com/rxhanson/Rectangle/releases/download/v0.48/Rectangle0.48.dmg">Rectangle</a>
   - <a href="https://www.mediaatelier.com/CheatSheet/?lang=en">CheatSheet</a>
 
-- HomeBrew Package Manager
+- Homebrew Package Manager
 
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
