@@ -143,7 +143,7 @@ Check for updates first - <code>softwareupdate -l</code>
 
   - <a href="https://iterm2.com/downloads/stable/latest">iTerm2</a>
   - <a href="https://cachefly.alfredapp.com/Alfred_4.3.2_1221.dmg">Alfred</a>
-  - <a href="https://s3.amazonaws.com/spectacle/downloads/Spectacle+1.2.zip">Spectacle</a>
+  - <a href="https://github.com/rxhanson/Rectangle/releases/download/v0.48/Rectangle0.48.dmg">Rectangle</a>
   - <a href="https://www.mediaatelier.com/CheatSheet/?lang=en">CheatSheet</a>
 
 - HomeBrew Package Manager
