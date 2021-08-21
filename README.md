@@ -155,7 +155,7 @@ Check for updates first - <code>softwareupdate -l</code>
 Note: All tools mentioned above can be installed by running
 
 ```
-mac-install.sh OR advanced.sh (for advanced users)
+advanced.sh (for advanced users)
 ```
 
 Note: Advanced script taked from <a href="https://github.com/adamisntdead/DevMyMac">DevMyMac by adamisntdead</a>
@@ -166,7 +166,7 @@ Note: Advanced script taked from <a href="https://github.com/adamisntdead/DevMyM
   - fortune
   - cowsay
   - iTerm 2
-  - Spectacle
+  - Rectangle
   - Alfred
   - Firefox
   - Last NodeJs version
