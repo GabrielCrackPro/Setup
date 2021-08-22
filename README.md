@@ -132,7 +132,11 @@ echo "source $(brew --prefix)/opt/powerlevel10k/powerlevel10k.zsh-theme" >>~/.zs
   - <code>neocf</code> - For neofetch config file
   - <code>root</code> - For ROOT - <code>sudo su</code>
 
-## System - MacOs
+### Useful Scripts
+- <a href="">Password Generator</a> - A simple sciprt that makes random passwords using Python
+- <a href="">Express App Generator</a> - Bash scipt that automatically generates a express app ready to run
+- <a href="">.DS_Store deleter</a> - Script that search and deletes mac os .DS_Store files
+### System - MacOs
 
 Inspired by <a href="https://www.youtube.com/watch?v=tMNOpaQrfAE">CodingGarden</a> <br>
 Check for updates first - <code>softwareupdate -l</code>
