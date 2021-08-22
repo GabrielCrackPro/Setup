@@ -1,16 +1,4 @@
 #!/bin/python
-
-#
-# delete-dssstore.py
-#
-# A simple python script to delete .DS_Store files
-#
-# Angelito M. Goulart
-# www.angelitomg.com
-#
-# April/2013
-#
-
 import os
 import sys
 
