@@ -96,6 +96,8 @@ All my configurations to setup a computer for personal use
 - Node.JS - A Javascipt framework <a href="https://nodejs.org/dist/v14.16.0/node-v14.16.0-x64.msi">Windows</a> | <a href="https://nodejs.org/dist/v14.16.0/node-v14.16.0.pkg">MacOs</a>
 - Python IDE - A IDE for work in Python <a href="https://www.python.org/downloads/windows/">Windows</a> | <a href="https://www.python.org/downloads/mac-osx/">MacOs</a>
 
+- Config files - <a href="http://www.github.com/GabrielCrackPro/dotfiles" target="blank">dotfiles</a>
+
 ### Terminal
 
 - Ohmyzsh - Tool for customize zsh shell <a href="https://ohmyz.sh/#install">Download</a> <br>
