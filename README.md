@@ -133,9 +133,9 @@ echo "source $(brew --prefix)/opt/powerlevel10k/powerlevel10k.zsh-theme" >>~/.zs
   - <code>root</code> - For ROOT - <code>sudo su</code>
 
 ### Useful Scripts
-- <a href="">Password Generator</a> - A simple sciprt that makes random passwords using Python
-- <a href="">Express App Generator</a> - Bash scipt that automatically generates a express app ready to run
-- <a href="">.DS_Store deleter</a> - Script that search and deletes mac os .DS_Store files
+- <a href="https://github.com/GabrielCrackPro/Setup/blob/main/Scripts/password_generator.py">Password Generator</a> - A simple sciprt that makes random passwords using Python
+- <a href="https://github.com/GabrielCrackPro/Setup/blob/main/Scripts/express-app-generator.sh">Express App Generator</a> - Bash scipt that automatically generates a express app ready to run
+- <a href="https://github.com/GabrielCrackPro/Setup/blob/main/Scripts/delete-dsstore.py">.DS_Store deleter</a> - Script that search and deletes mac os .DS_Store files
 ### System - MacOs
 
 Inspired by <a href="https://www.youtube.com/watch?v=tMNOpaQrfAE">CodingGarden</a> <br>
