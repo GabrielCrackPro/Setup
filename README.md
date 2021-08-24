@@ -12,7 +12,7 @@ All my configurations to setup a computer for personal use
   - GPU: Nvidia GT940MX 2GB VRAM
   - Screen Size: 15.6''
 - MacOS - <a href="https://www.apple.com/macbook-pro-13/" target="blank">MacBook Pro 13'' M1 2020</a>
-  - O.S: MacOs 11.4 BigSur
+  - O.S: MacOs 11 BigSur
   - Processor: M1
   - RAM: 8GB DDR4
   - Storage: 256GB SSD
