@@ -156,6 +156,12 @@ Check for updates first - <code>softwareupdate -l</code>
   - <a href="https://cachefly.alfredapp.com/Alfred_4.3.2_1221.dmg">Alfred</a>
   - <a href="https://github.com/rxhanson/Rectangle/releases/download/v0.48/Rectangle0.48.dmg">Rectangle</a>
   - <a href="https://www.mediaatelier.com/CheatSheet/?lang=en">CheatSheet</a>
+  - <a href="https://xbarapp.com/dl" target="blank">xbar</a>
+    - GeoIP Weather: Display the weather
+    - Countdown Timer 2: Set a custom timer
+    - IP Adress Info: See local and public IP Adresses
+  - <a href="https://www.raycast.com" target="blank">Raycast</a>
+  - <a href="https://apps.apple.com/us/app/pasta/id1438389787?mt=12" target="blank">Pasta</a>
 
 - Homebrew Package Manager
 
