@@ -149,7 +149,7 @@ Inspired by <a href="https://www.youtube.com/watch?v=tMNOpaQrfAE">CodingGarden</
 Check for updates first - <code>softwareupdate -l</code>
 
 - Dock
-  - Position: left
+  - Position: right
   - Auto Hide: On
 - Mac exclusive apps
   - <a href="https://iterm2.com/downloads/stable/latest">iTerm2</a>
@@ -168,23 +168,3 @@ Check for updates first - <code>softwareupdate -l</code>
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
-
-Note: All tools mentioned above can be installed by running
-
-```
-advanced.sh (for advanced users)
-```
-
-Note: Advanced script taked from <a href="https://github.com/adamisntdead/DevMyMac">DevMyMac by adamisntdead</a>
-
-- Scripts content:
-  - xcode tools
-  - Homebrew
-  - fortune
-  - cowsay
-  - iTerm 2
-  - Rectangle
-  - Alfred
-  - Firefox
-  - Last NodeJs version
-  - Visual Studio Code
