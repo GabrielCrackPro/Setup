@@ -2,7 +2,7 @@
 
 All my configurations to setup a computer for personal use
 
-### My Computers
+### 💻 My Computers
 
 - Windows - <a href="https://www.amazon.es/Acer-Aspire-E15-Ordenador-Port%C3%A1til/dp/B01MYN9IRR" target="blank">Acer Aspire E15</a>
   - O.S: Windows 10 20H2
@@ -20,7 +20,7 @@ All my configurations to setup a computer for personal use
   - Screen Size: 13.3''
   - Additional: TouchBar and TouchID
 
-### Accesories
+### ⌨️  Accesories
 
 - External Mechanical Keyboard: <a href="https://www.amazon.com/-/es/dp/B07YNW3L2P/ref=sr_1_15?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=37EGEH1CWEW1N&dchild=1&keywords=teclado+mecanico&qid=1625867875&refinements=p_n_feature_fourteen_browse-bin%3A21465205011%2Cp_36%3A2500-3000&rnid=386453011&s=videogames&sprefix=teclado+%2Caps%2C316&sr=1-15" target="blank">Redragon K509-RGB</a>
 - External Dysplays: SOON
@@ -56,20 +56,20 @@ All my configurations to setup a computer for personal use
 - EarTrumpet - Combine all volume panels - <a href="https://www.microsoft.com/es-es/p/eartrumpet/9nblggh516xp?cid=eartrumpet.landing&rtc=1&activetab=pivot:overviewtab">Windows</a>
 - Ueli - Windows Alfred version <a href="https://github.com/oliverschwendener/ueli">Windows</a>
 
-### Games
+### 🎮 Games
 
 - Steam <a href="https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe">Windows</a> | <a href="https://cdn.akamai.steamstatic.com/client/installer/steam.dmg">MacOs</a>
 - Epic Games Launcher <a href="https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncherInstaller.msi">Windows</a>
 - IFSCL <a href="https://ifscl.b-cdn.net/kolossus/Kolossus_152_197_Win.exe">Windows</a> | <a href="https://ifscl.b-cdn.net/kolossus/Kolossus_152_72_MacOS.zip">MacOs</a>
 - League Of Legends <a href="https://signup.euw.leagueoflegends.com/es/signup/redownload">Windows</a> | <a href="https://lol.secure.dyn.riotcdn.net/channels/public/x/installer/current/live.euw.zip">MacOs</a>
 
-### Media
+### 🎬 Media
 
 - VLC - A media player <a href="https://get.videolan.org/vlc/3.0.12/win64/vlc-3.0.12-win64.exe">Windows</a> | <a href="https://get.videolan.org/vlc/3.0.12.1/macosx/vlc-3.0.12.1-arm64.dmg">MacOs</a>
 - Spotify Client <a href="https://www.spotify.com/es/download/windows/">Windows</a> | <a href="https://www.spotify.com/es/download/mac/">MacOs</a>
 - GIMP - Images editor <a href="https://download.gimp.org/mirror/pub/gimp/v2.10/windows/gimp-2.10.24-setup-2.exe">Windows</a> | <a href="https://download.gimp.org/mirror/pub/gimp/v2.10/osx/gimp-2.10.22-x86_64-3.dmg">MacOs</a>
 
-### Development
+###  📄 Development
 
 - Visual Studio Code - A code editor <a href="https://code.visualstudio.com/docs/?dv=win">Windows</a> | <a href="https://code.visualstudio.com/docs/?dv=osx">MacOs</a>
   - See VS Code config file <a href="https://github.com/GabrielCrackPro/vscode-settings">here</a>
@@ -107,7 +107,7 @@ All my configurations to setup a computer for personal use
 
 - Config files - <a href="http://www.github.com/GabrielCrackPro/dotfiles" target="blank">dotfiles</a>
 
-### Terminal
+### ⚙️  Terminal
 
 - Ohmyzsh - Tool for customize zsh shell <a href="https://ohmyz.sh/#install">Download</a> <br>
   Or run:
@@ -141,7 +141,7 @@ echo "source $(brew --prefix)/opt/powerlevel10k/powerlevel10k.zsh-theme" >>~/.zs
   - <code>neocf</code> - For neofetch config file
   - <code>root</code> - For ROOT - <code>sudo su</code>
 
-### Useful Scripts
+### 📝 Useful Scripts
 - <a href="https://github.com/GabrielCrackPro/Setup/blob/main/Scripts/password_generator.py">Password Generator</a> - A simple sciprt that makes random passwords using Python
 - <a href="https://github.com/GabrielCrackPro/Setup/blob/main/Scripts/express-app-generator.sh">Express App Generator</a> - Bash scipt that automatically generates a express app ready to run
 - <a href="https://github.com/GabrielCrackPro/Setup/blob/main/Scripts/delete-dsstore.py">.DS_Store deleter</a> - Script that search and deletes mac os .DS_Store files
