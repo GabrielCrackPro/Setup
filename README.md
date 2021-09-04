@@ -40,7 +40,7 @@ All my configurations to setup a computer for personal use
 ### Desktop
 
 - Wallpapers - My personal collection of wallpapers 
-  - <a href="https://drive.google.com/drive/folders/18JwNTWYwK5xcWDfwWmcG69SPVEeNZEwD?usp=sharing" target ="blank">Drive</a>
+  - <a href="https://drive.google.com/drive/folders/18JwNTWYwK5xcWDfwWmcG69SPVEeNZEwD?usp=sharing" target="blank">Drive</a>
   - <a href="https://www.icloud.com/iclouddrive/0oqdYFrw9-aa4ukvTCoCRpzpg#Wallpapers" target="blank">iCloud</a>
 - 7+ TaskBar Tweaker - Customize taskbar <a href="https://tweaker.rammichael.com/">Windows</a>
 - Nexus - A simple dock to place icons <a href ="https://nexus-dock.uptodown.com/windows">Download</a>
