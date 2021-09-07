@@ -165,6 +165,8 @@ Check for updates first - <code>softwareupdate -l</code>
     - IP Adress Info: See local and public IP Adresses
   - <a href="https://www.raycast.com" target="blank">Raycast</a>
   - <a href="https://apps.apple.com/us/app/pasta/id1438389787?mt=12" target="blank">Pasta</a>
+  - <a href="https://www.macupdate.com/app/mac/32953/bettertouchtool" target="blank">BetterTouchTool</a>
+    - <a href="https://www.icloud.com/iclouddrive/0WoI6LDtSGLV5sTvM455oyBzg#custom" target="blank">Custom preset</a>
 
 - Homebrew Package Manager
 
