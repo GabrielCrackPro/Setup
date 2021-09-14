@@ -43,8 +43,8 @@ All my configurations to setup a computer for personal use
 - Wallpapers - My personal collection of wallpapers 
   - <a href="https://drive.google.com/drive/folders/18JwNTWYwK5xcWDfwWmcG69SPVEeNZEwD?usp=sharing" target="blank">Drive</a>
   - <a href="https://www.icloud.com/iclouddrive/0oqdYFrw9-aa4ukvTCoCRpzpg#Wallpapers" target="blank">iCloud</a>
-- 7+ TaskBar Tweaker - Customize taskbar <a href="https://tweaker.rammichael.com/">Windows</a>
-- Nexus - A simple dock to place icons <a href ="https://nexus-dock.uptodown.com/windows">Download</a>
+- 7+ TaskBar Tweaker - Customize taskbar <a href="https://tweaker.rammichael.com/" target="blank">Windows</a>
+- Nexus - A simple dock to place icons <a href ="https://nexus-dock.uptodown.com/windows" target="blank">Windows</a>
 - VirtualBox - Tool to create virtual machines <a href="https://download.virtualbox.org/virtualbox/6.1.18/VirtualBox-6.1.18-142142-Win.exe">Windows</a> | <a href="https://download.virtualbox.org/virtualbox/6.1.18/VirtualBox-6.1.18-142142-OSX.dmg">MacOs</a>
   - <a href="https://ubuntu.com/">Ubuntu</a>
   - <a href="https://www.kali.org/">Kali Linux</a>
