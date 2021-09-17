@@ -25,15 +25,15 @@ All my configurations to setup a computer for personal use
 - External Mechanical Keyboard: <a href="https://www.amazon.com/-/es/dp/B07YNW3L2P/ref=sr_1_15?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=37EGEH1CWEW1N&dchild=1&keywords=teclado+mecanico&qid=1625867875&refinements=p_n_feature_fourteen_browse-bin%3A21465205011%2Cp_36%3A2500-3000&rnid=386453011&s=videogames&sprefix=teclado+%2Caps%2C316&sr=1-15" target="blank">Redragon K509-RGB</a>
 - Headphones <a href="https://www.sony.es/electronics/diadema/wh-ch500" target="blank">Sony WH-CH500</a>
 - External Dysplays: SOON
-
+- Macbook Case <a href="https://www.amazon.es/gp/product/B08C78PKTM/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1" target="blank"></a>
 ### System - Windows
 
 - Update Privacy Settings
 - <a href="https://github.com/vhanla/TaskbarDock">Customize</a> or hide the taskbar
   - Taskbar Order
-    1. Explorer
-    2. Firefox Developer Edition
-    3. Fluent Terminal
+     - Explorer
+     - Firefox Developer Edition
+     - Fluent Terminal
 - Apply Dark Theme
 - <a href="https://winaerotweaker.com/">Global Customization</a>
 - <a href="https://github.com/GabrielCrackPro/W10-Debloater">Debloat</a>
