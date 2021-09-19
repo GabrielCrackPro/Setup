@@ -166,7 +166,7 @@ Check for updates first - <code>softwareupdate -l</code>
   - <a href="https://www.raycast.com" target="blank">Raycast</a>
   - <a href="https://apps.apple.com/us/app/pasta/id1438389787?mt=12" target="blank">Pasta</a>
   - <a href="https://github.com/Toxblh/MTMR/releases" target="blank">MTMR - Customize Touchbar</a>
-    - <a href="https://github.com/Toxblh/MTMR-presets/blob/master/luongvo209/luongvo209.json" target="blank">Custom preset</a>
+    - <a href="https://github.com/GabrielCrackPro/Setup/blob/main/mtmr.json" target="blank">Custom preset</a>
 
 - Homebrew Package Manager
 
