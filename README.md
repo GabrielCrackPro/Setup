@@ -20,27 +20,28 @@ All my configurations to setup a computer for personal use
   - Screen Size: 13.3''
   - Additional: TouchBar and TouchID
 
-### ⌨️  Accesories
+### ⌨️ Accesories
 
 - External Mechanical Keyboard: <a href="https://www.amazon.com/-/es/dp/B07YNW3L2P/ref=sr_1_15?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=37EGEH1CWEW1N&dchild=1&keywords=teclado+mecanico&qid=1625867875&refinements=p_n_feature_fourteen_browse-bin%3A21465205011%2Cp_36%3A2500-3000&rnid=386453011&s=videogames&sprefix=teclado+%2Caps%2C316&sr=1-15" target="blank">Redragon K509-RGB</a>
 - Headphones <a href="https://www.sony.es/electronics/diadema/wh-ch500" target="blank">Sony WH-CH500</a>
 - External Dysplays: SOON
 - Macbook Pro 13'' 2020 Case <a href="https://www.amazon.es/gp/product/B08C78PKTM/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1" target="blank">MOSISO Hard Case</a>
+
 ### System - Windows
 
 - Update Privacy Settings
 - <a href="https://github.com/vhanla/TaskbarDock">Customize</a> or hide the taskbar
   - Taskbar Order
-     - Explorer
-     - Firefox Developer Edition
-     - Fluent Terminal
+    - Explorer
+    - Firefox Developer Edition
+    - Fluent Terminal
 - Apply Dark Theme
 - <a href="https://winaerotweaker.com/">Global Customization</a>
 - <a href="https://github.com/GabrielCrackPro/W10-Debloater">Debloat</a>
 
 ### Desktop
 
-- Wallpapers - My personal collection of wallpapers 
+- Wallpapers - My personal collection of wallpapers
   - <a href="https://drive.google.com/drive/folders/18JwNTWYwK5xcWDfwWmcG69SPVEeNZEwD?usp=sharing" target="blank">Drive</a>
   - <a href="https://www.icloud.com/iclouddrive/0oqdYFrw9-aa4ukvTCoCRpzpg#Wallpapers" target="blank">iCloud</a>
 - 7+ TaskBar Tweaker - Customize taskbar <a href="https://tweaker.rammichael.com/" target="blank">Windows</a>
@@ -70,19 +71,19 @@ All my configurations to setup a computer for personal use
 - Spotify Client <a href="https://www.spotify.com/es/download/windows/">Windows</a> | <a href="https://www.spotify.com/es/download/mac/">MacOs</a>
 - GIMP - Images editor <a href="https://download.gimp.org/mirror/pub/gimp/v2.10/windows/gimp-2.10.24-setup-2.exe">Windows</a> | <a href="https://download.gimp.org/mirror/pub/gimp/v2.10/osx/gimp-2.10.22-x86_64-3.dmg">MacOs</a>
 
-###  📄 Development
+### 📄 Development
 
 - Visual Studio Code - A code editor <a href="https://code.visualstudio.com/docs/?dv=win">Windows</a> | <a href="https://code.visualstudio.com/docs/?dv=osx">MacOs</a>
   - See VS Code config file <a href="https://github.com/GabrielCrackPro/vscode-settings">here</a>
 - Vim - Terminal text editor
   - Plugins - Search more plugins <a href="https://vimawesome.com/" target="blank">here</a>
-   - Install <a href="https://github.com/junegunn/vim-plug" target="blank">Plug</a>
-    - <a href="https://wakatime.com/dashboard" target="blank">WakaTime</a>
-    - <a href="https://vimawesome.com/plugin/emmet-vim" target="blank">Emmet</a>
-    - <a href="https://github.com/vim-airline/vim-airline" target="blank">VIM Airline</a>
-    - <a href="https://github.com/Queeq/vim-airline-themes" target="blank">Airline Themes</a>
-    - <a href="https://vimawesome.com/plugin/vim-javascript" target="blank">VIM Javascript</a>
-    - <a href="https://vimawesome.com/plugin/vim-autoformat" target="blank">VIM Autoformat</a>
+  - Install <a href="https://github.com/junegunn/vim-plug" target="blank">Plug</a>
+  - <a href="https://wakatime.com/dashboard" target="blank">WakaTime</a>
+  - <a href="https://vimawesome.com/plugin/emmet-vim" target="blank">Emmet</a>
+  - <a href="https://github.com/vim-airline/vim-airline" target="blank">VIM Airline</a>
+  - <a href="https://github.com/Queeq/vim-airline-themes" target="blank">Airline Themes</a>
+  - <a href="https://vimawesome.com/plugin/vim-javascript" target="blank">VIM Javascript</a>
+  - <a href="https://vimawesome.com/plugin/vim-autoformat" target="blank">VIM Autoformat</a>
 - Git - Version Control Tool <a href="https://git-scm.com/download/win">Windows</a> | <a href="https://git-scm.com/download/mac">MacOs</a>
   - Note: Disable two-factor-auth to login into terminal
 - WSL - Tool to run linux system on windows <a href="https://docs.microsoft.com/es-es/windows/wsl/install-win10">Windows</a>
@@ -108,7 +109,7 @@ All my configurations to setup a computer for personal use
 
 - Config files - <a href="http://www.github.com/GabrielCrackPro/dotfiles" target="blank">dotfiles</a>
 
-### ⚙️  Terminal
+### ⚙️ Terminal
 
 - Ohmyzsh - Tool for customize zsh shell <a href="https://ohmyz.sh/#install">Download</a> <br>
   Or run:
@@ -136,16 +137,22 @@ echo "source $(brew --prefix)/opt/powerlevel10k/powerlevel10k.zsh-theme" >>~/.zs
   ```
   TIP:You can combine fortune and cowsay running <code>fortune|cowsay</code>
   - Neofetch - A tool to display system information <a href="https://github.com/dylanaraps/neofetch">Github Repo</a>
-- Aliases
-  - <code>dev</code> - For development folder
-  - <code>zshcf</code> - For ZSH config file
-  - <code>neocf</code> - For neofetch config file
-  - <code>root</code> - For ROOT - <code>sudo su</code>
+
+### 🚀 CLI Tools
+
+- <a href="https://github.com/sindresorhus/speed-test">speed-test</a> - A CLI tool to test your internet speed
+- <a href="https://github.com/sdushantha/qr-filetransfer">QR file transfer</a> - A CLI tool to transfer files via WI-FI
+- <a href="https://github.com/sherlock-project/sherlock">Sherlock</a> - A CLI tool to search users on social media
+- <a href="https://github.com/svenstaro/miniserve">Miniserve</a> - A CLI tool to serve files over HTTP
+- <a href="https://github.com/jarun/nnn">nnn</a> - A CLI tool to navigate through directories
+- <a href="https://github.com/Peltoche/lsd">lsd</a> - ls command enchanced
 
 ### 📝 Useful Scripts
+
 - <a href="https://github.com/GabrielCrackPro/Setup/blob/main/Scripts/password_generator.py">Password Generator</a> - A simple sciprt that makes random passwords using Python
 - <a href="https://github.com/GabrielCrackPro/Setup/blob/main/Scripts/express-app-generator.sh">Express App Generator</a> - Bash scipt that automatically generates a express app ready to run
 - <a href="https://github.com/GabrielCrackPro/Setup/blob/main/Scripts/delete-dsstore.py">.DS_Store deleter</a> - Script that search and deletes mac os .DS_Store files
+
 ### System - MacOs
 
 Inspired by <a href="https://www.youtube.com/watch?v=tMNOpaQrfAE">CodingGarden</a> <br>
@@ -155,16 +162,15 @@ Check for updates first - <code>softwareupdate -l</code>
   - Position: right
   - Auto Hide: On
 - Mac exclusive apps
+
   - <a href="https://iterm2.com/downloads/stable/latest">iTerm2</a>
   - <a href="https://cachefly.alfredapp.com/Alfred_4.3.2_1221.dmg">Alfred</a>
   - <a href="https://github.com/rxhanson/Rectangle/releases/download/v0.48/Rectangle0.48.dmg">Rectangle</a>
   - <a href="https://www.mediaatelier.com/CheatSheet/?lang=en">CheatSheet</a>
-  - <a href="https://xbarapp.com/dl" target="blank">xbar</a>
-    - GeoIP Weather: Display the weather
-    - Countdown Timer 2: Set a custom timer
-    - IP Adress Info: See local and public IP Adresses
+  - <a href="https://github.com/swiftbar/SwiftBar/releases/download/v1.4.0/SwiftBar.zip" target="blank">SwiftBar</a>
   - <a href="https://www.raycast.com" target="blank">Raycast</a>
   - <a href="https://apps.apple.com/us/app/pasta/id1438389787?mt=12" target="blank">Pasta</a>
+  - <a href="https://bahoom.com/hyperswitch" target="blank">HyperSwitch</a>
   - <a href="https://github.com/Toxblh/MTMR/releases" target="blank">MTMR - Customize Touchbar</a>
     - <a href="https://github.com/GabrielCrackPro/Setup/blob/main/mtmr.json" target="blank">Custom preset</a>
 
