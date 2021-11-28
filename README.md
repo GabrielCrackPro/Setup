@@ -157,7 +157,7 @@ echo "source $(brew --prefix)/opt/powerlevel10k/powerlevel10k.zsh-theme" >>~/.zs
 - <a href="https://github.com/svenstaro/miniserve">Miniserve</a> - A CLI tool to serve files over HTTP
 - <a href="https://github.com/jarun/nnn">nnn</a> - A CLI tool to navigate through directories
 - <a href="https://github.com/Peltoche/lsd">lsd</a> - ls command enchanced
-- <a href="https://surge.sh">surge.sh - CLI Tool to deploy static webpages</a>
+- <a href="https://surge.sh">surge.sh</a> - CLI Tool to deploy static webpages
 
 ### 📝 Useful Scripts
 
