@@ -125,6 +125,17 @@ brew install romkatv/powerlevel10k/powerlevel10k
 echo "source $(brew --prefix)/opt/powerlevel10k/powerlevel10k.zsh-theme" >>~/.zshrc
 ```
 
+- 🚀 Ohmyzsh plugins
+
+  - Git
+  - zsh-syntax-highlighting
+  - zsh-autosuggestions
+  - zsh history-enquirer
+  - jovial
+  - macos
+  - comand-time
+  - autojump
+
 - Font <a href="https://github.com/microsoft/cascadia-code">Cascadia Code</a>
 - Tools
   - Cowsay - A configurable talking cow
@@ -146,6 +157,7 @@ echo "source $(brew --prefix)/opt/powerlevel10k/powerlevel10k.zsh-theme" >>~/.zs
 - <a href="https://github.com/svenstaro/miniserve">Miniserve</a> - A CLI tool to serve files over HTTP
 - <a href="https://github.com/jarun/nnn">nnn</a> - A CLI tool to navigate through directories
 - <a href="https://github.com/Peltoche/lsd">lsd</a> - ls command enchanced
+- <a href="https://surge.sh">surge.sh - CLI Tool to deploy static webpages</a>
 
 ### 📝 Useful Scripts
 
