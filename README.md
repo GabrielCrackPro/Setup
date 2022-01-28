@@ -111,6 +111,8 @@ All my configurations to setup a computer for personal use
 
 ### ⚙️ Terminal
 
+- See .zshrc config file <a href="https://github.com/GabrielCrackPro/Setup/blob/main/.zshrc" target="_blank">here</a>
+
 - Ohmyzsh - Tool for customize zsh shell <a href="https://ohmyz.sh/#install">Download</a> <br>
   Or run:
   ```
