@@ -1,13 +1,18 @@
+
+#### FIG ENV VARIABLES ####
+# Please make sure this block is at the start of this file.
+[ -s ~/.fig/shell/pre.sh ] && source ~/.fig/shell/pre.sh
+#### END FIG ENV VARIABLES ####
 # If you come from bash you might have to change your $PATH. export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-export ZSH="/home/gabriel/.oh-my-zsh"
+export ZSH="/Users/gabrielvr/.oh-my-zsh"
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
-ZSH_THEME="half-life"
+ZSH_THEME="sonicradish"
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
@@ -69,7 +74,14 @@ ZSH_THEME="half-life"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git)
+plugins=(
+  zsh-history-enquirer
+    git
+    zsh-autosuggestions
+    zsh-syntax-highlighting
+    macos
+    autojump
+)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -97,13 +109,40 @@ source $ZSH/oh-my-zsh.sh
 
 #Custom Aliases
 
-alias zshcf="nano ~/.zshrc"
-alias neocf="nano /home/gabriel/.config/neofetch/config.conf"
-alias dev="cd /mnt/c/Users/pepiy/Desktop/Gabriel/DEV"
-alias root="sudo su"
-alias remote-start="sudo /etc/init.d/xrdp start"
-alias remote-stop="sudo /etc/init.d/xrdp stop"
+alias zshconfig="vim ~/.zshrc"
+alias dev="cd /Users/gabrielvr/dev"
+alias express="bash /Users/gabrielvr/dev/express-app-generator/create.sh"
+alias rmds="sudo python /Users/gabrielvr/dev/dsstore-deleter/delete-dsstore.py /"
+alias cat="bat"
+alias ls="lsd"
+alias update="brew update && brew upgrade && brew autoremove && brew cleanup"
+alias man="tldr"
+alias serve="miniserve"
+alias spt="speed-test -v"
+alias clh="history -c"
+alias dump="sh /Users/gabrielvr/dev/db-data-extractor/script.sh"
+alias dmgi="sh /Users/gabrielvr/dev/dmg-installer/script.sh"
 
-#Custom comand at launch
 
-neofetch
+# Custom comand at launch
+
+clear
+fortune | cowsay -f eyes
+
+source /Users/gabrielvr/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source `npm root -g`/zsh-history-enquirer/scripts/zsh-history-enquirer.plugin.zsh
+
+
+setopt prompt_subst
+
+#### FIG ENV VARIABLES ####
+# Please make sure this block is at the end of this file.
+[ -s ~/.fig/fig.sh ] && source ~/.fig/fig.sh
+#### END FIG ENV VARIABLES ####
+
+# RPROMPT
+
+RPROMPT="%D{%H:%M:%S}" 
+
+# PUT FLUTTER IN PATH
+export PATH="$PATH:/Users/gabrielvr/dev/flutter/bin"
