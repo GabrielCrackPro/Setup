@@ -1,10 +1,16 @@
+# Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
+# Initialization code that may require console input (password prompts, [y/n]
+# confirmations, etc.) must go above this block; everything else may go below.
+if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]; then
+  source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
+fi
 
-#### FIG ENV VARIABLES ####
-# Please make sure this block is at the start of this file.
-[ -s ~/.fig/shell/pre.sh ] && source ~/.fig/shell/pre.sh
-#### END FIG ENV VARIABLES ####
+# Fig pre block. Keep at the top of this file.
+. "$HOME/.fig/shell/zshrc.pre.zsh"
+
+eval $(thefuck --alias)
+
 # If you come from bash you might have to change your $PATH. export PATH=$HOME/bin:/usr/local/bin:$PATH
-
 # Path to your oh-my-zsh installation.
 export ZSH="/Users/gabrielvr/.oh-my-zsh"
 
@@ -28,7 +34,7 @@ ZSH_THEME="sonicradish"
 # HYPHEN_INSENSITIVE="true"
 
 # Uncomment the following line to disable bi-weekly auto-update checks.
-# DISABLE_AUTO_UPDATE="true"
+DISABLE_AUTO_UPDATE="true"
 
 # Uncomment the following line to automatically update without prompting.
 # DISABLE_UPDATE_PROMPT="true"
@@ -58,6 +64,8 @@ ZSH_THEME="sonicradish"
 # much, much faster.
 # DISABLE_UNTRACKED_FILES_DIRTY="true"
 
+ZSH_DISABLE_COMPFIX=true
+
 # Uncomment the following line if you want to change the command execution time
 # stamp shown in the history command output.
 # You can set one of the optional three formats:
@@ -75,12 +83,13 @@ ZSH_THEME="sonicradish"
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
-  zsh-history-enquirer
-    git
+    colors
+    zsh-history-enquirer
     zsh-autosuggestions
     zsh-syntax-highlighting
     macos
     autojump
+    sudo
 )
 
 source $ZSH/oh-my-zsh.sh
@@ -90,7 +99,7 @@ source $ZSH/oh-my-zsh.sh
 # export MANPATH="/usr/local/man:$MANPATH"
 
 # You may need to manually set your language environment
-#export LANG=es_ES.UTF-8
+export LANG=es_ES.UTF-8
 
 # Preferred editor for local and remote sessions
 # if [[ -n $SSH_CONNECTION ]]; then
@@ -107,50 +116,117 @@ source $ZSH/oh-my-zsh.sh
 # users are encouraged to define aliases within the ZSH_CUSTOM folder.
 # For a full list of active aliases, run `alias`.
 
-#Custom Aliases
+# Prompt colors
+
+RED='\033[0;31m'
+GREEN='\033[0;32m'
+YELLOW='\033[1;33m'
+NC='\033[0m' # No Color
+
+
+# Custom Aliases
 
 alias zshconfig="vim ~/.zshrc"
-alias dev="cd /Users/gabrielvr/dev"
-alias express="bash /Users/gabrielvr/dev/express-app-generator/create.sh"
-alias rmds="sudo python /Users/gabrielvr/dev/dsstore-deleter/delete-dsstore.py /"
+alias dev="cd ~/dev"
+alias express="express-cli-generator"
+alias rmds="sudo /opt/homebrew/bin/python3 /Users/gabrielvr/dev/dsstore-deleter/main.py /"
 alias cat="bat"
 alias ls="lsd"
-alias update="brew update && brew upgrade && brew autoremove && brew cleanup"
-alias man="tldr"
-alias serve="miniserve"
+alias update="sh ~/dev/shell-scripts/update_all.sh"
+alias eman="tldr"
 alias spt="speed-test -v"
 alias clh="history -c"
-alias sql="mysql -u gabriel -ppreagaser"
-alias dump="sh /Users/gabrielvr/dev/db-data-extractor/script.sh"
-alias dmgi="sh /Users/gabrielvr/dev/dmg-installer/script.sh"
+alias sql="mycli -u gabriel -ppreagaser"
+alias dump="sh ~/dev/db-data-extractor/script.sh"
+alias dmgi="sh ~/dev/dmg-installer/script.sh"
+alias rr="curl -s -L http://bit.ly/10hA8iC | bash"
+alias cra="npx create-react-app"
+alias h="howdoi"
+alias 2048="sh ~/dev/bash-2048/bash2048.sh"
 
-alias ap="cd /Users/gabrielvr/DAW" 
-alias bd="cd /Users/gabrielvr/DAW/Bases de datos" # Base de datos
-alias en="cd /Users/gabrielvr/DAW/Entornos de desarrollo" # Entornos de desarrollo
-alias pr="cd /Users/gabrielvr/DAW/Programación" # Programación
-alias sin="cd /Users/gabrielvr/DAW/Sistemas informaticos" # Sistemas informáticos
-alias fo="cd /Users/gabrielvr/DAW/FOL" # FOL
-alias in="cd /Users/gabrielvr/DAW/Inglés" # Inglés
+export daw="cd ~/DAW" 
+export bd="cd ~/DAW/Bases de datos" # Base de datos
+export en="cd ~/DAW/Entornos de desarrollo" # Entornos de desarrollo
+export pr="cd ~/DAW/Programación" # Programación
+export sin="cd ~/DAW/Sistemas informaticos" # Sistemas informáticos
+export fo="cd ~/DAW/FOL" # FOL
+export ing="cd ~/DAW/Inglés" # Inglés
 
-# Custom comand at launch
+alias vpn="openvpn ~/VPN/vpnbook-pl226-tcp443.ovpn"
+
+# Git aliases
+
+alias gcl="git clone"
+alias ga="git add ."
+alias gs="git status -s"
+alias gcm="git commit -m"
+alias gp="git push"
+
+# Spotify aliases
+
+alias sp="spotify"
+alias spp="spotify play"
+alias sppa="spotify pause"
+alias spn="spotify next"
+alias sppr="spotify prev"
+alias spv="spotify volume"
+alias spm="spotify mute"
+alias spr="spotify toggle repeat"
+alias sps="spotify toggle shuffle"
+alias spst="spotify status"
+ 
+# Clear DNS Cache
+
+alias cld="sudo dscacheutil -flushcache; sudo killall -HUP mDNSResponder; echo 'DNS Cache cleaned'"
+# Get IP
+alias ip="curl icanhazip.com"
+# Custom comands at launch
 
 clear
-fortune | cowsay -f eyes
+
+# Display last login info
+
+LAST_LOGIN="$(last -tty gabrielvr | head -n 1 | cut -b 38-53)"
+echo -e "$c[green][ ⫸ ] Last login - $c[reset]${LAST_LOGIN}"
+
+# Display private IP
+
+IP="$(ifconfig | grep "192" | cut -b 7-19)"
+echo -e "$c[green][ ⫸ ] Private IP - $c[reset]${IP}"
+
+# Display weather
+
+WEATHER="$(ansiweather -l Elche,ES -a false -w false -h false -H false -p false -i false | cut -b 13-25)"
+echo -e "$c[green][ ⫸ ] Weather - $c[reset]${WEATHER}"
+
+# Display fortune and cowsay
+
+COWSAY="$(fortune -s | cowsay -f tux)"
+echo -e "$c[green]${COWSAY}$c[reset]"
+echo
 
 source /Users/gabrielvr/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-source `npm root -g`/zsh-history-enquirer/scripts/zsh-history-enquirer.plugin.zsh
 
 
 setopt prompt_subst
 
-#### FIG ENV VARIABLES ####
-# Please make sure this block is at the end of this file.
-[ -s ~/.fig/fig.sh ] && source ~/.fig/fig.sh
-#### END FIG ENV VARIABLES ####
+# Display time 
 
-# RPROMPT
+RPROMPT="%{$c[green]%}( %D{%H:%M:%S} )%{$c[reset]%}"
 
-RPROMPT="%D{%H:%M:%S}" 
 
-# PUT FLUTTER IN PATH
-export PATH="$PATH:/Users/gabrielvr/dev/flutter/bin"
+# Cowsay cowfiles path
+
+export COWFILES="/opt/homebrew/Cellar/cowsay/3.04_1/share/cows"
+
+
+test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell_integration.zsh"
+
+
+# To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
+[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+
+# Fig post block. Keep at the bottom of this file.
+#. "$HOME/.fig/shell/zshrc.post.zsh"
+
+source /opt/homebrew/opt/powerlevel10k/powerlevel10k.zsh-theme
