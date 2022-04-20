@@ -120,6 +120,7 @@ All my configurations to setup a computer for personal use
   ```
   - Ohmyzsh custom themes <a href="https://zshthem.es/all/">here</a>
 - Theme <a href="https://github.com/romkatv/powerlevel10k" target="_blank">powerlevel10k</a> <br>
+- Config file <a href="https://github.com/GabrielCrackPro/Setup/blob/main/.p10k.zsh" target="_blank">here</a>
   You can also install it using homebrew
 
 ```
