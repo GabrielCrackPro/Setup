@@ -1,5 +1,10 @@
 # Setup
 
+[![Profile Updated](https://img.shields.io/github/last-commit/GabrielCrackPro/Setup?color=00a10f&label=Setup%20updated&style=for-the-badge&labelColor=000)]()
+
+[![Windows](https://img.shields.io/badge/acer%20Aspire%20E15-83B81A?style=for-the-badge&logo=acer&logoColor=white)]()
+[![MacOs](https://img.shields.io/badge/Apple-MacBook_Pro_2020_M1-000?style=for-the-badge&logo=apple&logoColor=white&labelColor=black)]()
+
 All my configurations to setup a computer for personal use
 
 ### 💻 My Computers
@@ -161,6 +166,7 @@ echo "source $(brew --prefix)/opt/powerlevel10k/powerlevel10k.zsh-theme" >>~/.zs
 - <a href="https://github.com/jarun/nnn">nnn</a> - A CLI tool to navigate through directories
 - <a href="https://github.com/Peltoche/lsd">lsd</a> - ls command enchanced
 - <a href="https://surge.sh">surge.sh</a> - CLI Tool to deploy static webpages
+- <a href="https://github.com/max-niederman/ttyper">ttyper - Terminal based typing test</a>
 
 ### 📝 Useful Scripts
 
