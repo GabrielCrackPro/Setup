@@ -101,9 +101,20 @@ All my configurations to setup a computer for personal use
     - FlagFox - See the server country flag <a href="https://addons.mozilla.org/es/firefox/addon/flagfox/">Add</a>
     - LastPass - Password Manager <a href="https://addons.mozilla.org/es/firefox/addon/lastpass-password-manager/">Add</a>
   - Bookmarks
-    - <a href="http://docs.google.com/document/d/1NeflsQZ1i7OnFW1hhSW37zde82VWrXHXrj6hySu7isY/edit">IFSCL Changelog</a>
-    - <a href="http://codewars.com">Codewars</a>
-    - <a href="http://stackoverflow.com/">Stack Overflow</a>
+    - DEV Utilities
+      - <a href="https://1loc.dev">1LOC</a>
+      - <a href="https://shields.io">Shields.io</a>
+      - <a href="https://30secondsofcode.org">30 Seconds Of Code</a>
+      - <a href="https://codeguide.co">Code Guide</a>
+      - <a href="https://the-algorithms.com">The Algorithms</a>
+      - <a href="https://transform.tools">Transform Tools</a>
+      - <a href="https://www.joshwcomeau.com/operator-lookup">JS Operator Lookup</a>
+      - <a href="https://www.joshwcomeau.com/goodies">Josh Comeau Goodies</a>
+    - Others
+      - <a href="http://docs.google.com/document/d/1NeflsQZ1i7OnFW1hhSW37zde82VWrXHXrj6hySu7isY/edit">IFSCL Changelog</a>
+      - <a href="http://codewars.com">Codewars</a>
+      - <a href="https://cmacked.com">MacDrop</a>
+      - <a href="https://awesomeopensource.com">AwsomeOpenSource</a>
 - Fluent Terminal - A replacement for CMD <a href="https://github.com/felixse/FluentTerminal">Windows</a>
   - Zsh Shell - A comand shell
   ```
@@ -166,7 +177,7 @@ echo "source $(brew --prefix)/opt/powerlevel10k/powerlevel10k.zsh-theme" >>~/.zs
 - <a href="https://github.com/jarun/nnn">nnn</a> - A CLI tool to navigate through directories
 - <a href="https://github.com/Peltoche/lsd">lsd</a> - ls command enchanced
 - <a href="https://surge.sh">surge.sh</a> - CLI Tool to deploy static webpages
-- <a href="https://github.com/max-niederman/ttyper">ttyper - Terminal based typing test</a>
+- <a href="https://github.com/max-niederman/ttyper">ttyper</a> - Terminal based typing test
 
 ### 📝 Useful Scripts
 
