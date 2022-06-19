@@ -83,12 +83,12 @@ All my configurations to setup a computer for personal use
 - Vim - Terminal text editor
   - Plugins - Search more plugins <a href="https://vimawesome.com/" target="_blank">here</a>
   - Install <a href="https://github.com/junegunn/vim-plug" target="_blank">Plug</a>
-  - <a href="https://wakatime.com/dashboard" target="_blank">WakaTime</a>
-  - <a href="https://vimawesome.com/plugin/emmet-vim" target="_blank">Emmet</a>
-  - <a href="https://github.com/vim-airline/vim-airline" target="_blank">VIM Airline</a>
-  - <a href="https://github.com/Queeq/vim-airline-themes" target="_blank">Airline Themes</a>
-  - <a href="https://vimawesome.com/plugin/vim-javascript" target="_blank">VIM Javascript</a>
-  - <a href="https://vimawesome.com/plugin/vim-autoformat" target="_blank">VIM Autoformat</a>
+    - <a href="https://wakatime.com/dashboard" target="_blank">WakaTime</a>
+    - <a href="https://vimawesome.com/plugin/emmet-vim" target="_blank">Emmet</a>
+    - <a href="https://github.com/vim-airline/vim-airline" target="_blank">VIM Airline</a>
+    - <a href="https://github.com/Queeq/vim-airline-themes" target="_blank">Airline Themes</a>
+    - <a href="https://vimawesome.com/plugin/vim-javascript" target="_blank">VIM Javascript</a>
+    - <a href="https://vimawesome.com/plugin/vim-autoformat" target="_blank">VIM Autoformat</a>
 - Git - Version Control Tool <a href="https://git-scm.com/download/win">Windows</a> | <a href="https://git-scm.com/download/mac">MacOs</a>
   - Note: Disable two-factor-auth to login into terminal
 - WSL - Tool to run linux system on windows <a href="https://docs.microsoft.com/es-es/windows/wsl/install-win10">Windows</a>
@@ -210,17 +210,17 @@ Check for updates first - <code>softwareupdate -l</code>
   - Auto Hide: On
 - Mac exclusive apps
 
-  - <a href="https://iterm2.com/downloads/stable/latest">iTerm2</a>
-  - <a href="https://cmacked.com/alfred-4">Alfred</a>
-  - <a href="https://github.com/rxhanson/Rectangle/releases/download/v0.48/Rectangle0.48.dmg">Rectangle</a>
-  - <a href="https://www.mediaatelier.com/CheatSheet/?lang=en">CheatSheet</a>
-  - <a href="https://github.com/swiftbar/SwiftBar/releases/download/v1.4.0/SwiftBar.zip" target="_blank">SwiftBar</a>
-  - <a href="https://www.raycast.com" target="_blank">Raycast</a>
-  - <a href="https://apps.apple.com/us/app/pasta/id1438389787?mt=12" target="_blank">Pasta</a>
-  - <a href="https://apps.apple.com/us/app/paste-clipboard-manager/id967805235" target="_blank">Paste - Clipboard Manager</a>
-  - <a href="https://bahoom.com/hyperswitch" target="_blank">HyperSwitch</a>
-  - <a href="https://mac.getutm.app" target="_blank">UTM</a>
-  - <a href="https://github.com/Toxblh/MTMR/releases" target="_blank">MTMR - Customize Touchbar</a>
+  - <a href="https://iterm2.com/downloads/stable/latest">iTerm2</a> - Terminal emulator
+  - <a href="https://cmacked.com/alfred-4">Alfred</a> - Spolight replacement
+  - <a href="https://www.raycast.com" target="_blank">Raycast</a> - Spolight replacement
+  - <a href="https://github.com/rxhanson/Rectangle/releases/download/v0.48/Rectangle0.48.dmg">Rectangle</a> - A tool to organize windows
+  - <a href="https://www.mediaatelier.com/CheatSheet/?lang=en">CheatSheet</a> - A tool to help you learn keyboard shortcuts
+  - <a href="https://apps.apple.com/us/app/pasta/id1438389787?mt=12" target="_blank">Pasta</a> - Clipboard manager
+  - <a href="https://apps.apple.com/us/app/paste-clipboard-manager/id967805235" target="_blank">Paste</a> - Clipboard Manager
+  - <a href="https://bahoom.com/hyperswitch" target="_blank">HyperSwitch</a> - Window switcher
+  - <a href="https://alt-tab-macos.netlify.app">AltTab</a> - Window switcher
+  - <a href="https://mac.getutm.app" target="_blank">UTM</a> - Tool to create virtual machines
+  - <a href="https://github.com/Toxblh/MTMR/releases" target="_blank">MTMR</a> - Customize the touchbar
     - <a href="https://github.com/GabrielCrackPro/Setup/blob/main/mtmr.json" target="_blank">Custom preset</a>
 
 - Homebrew Package Manager - <a href="https://brew.sh">brew.sh</a>
