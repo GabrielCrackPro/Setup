@@ -27,24 +27,24 @@ All my configurations to setup a computer for personal use
 
 ### ⌨️ Accesories
 
-- External Mechanical Keyboard: <a href="https://www.amazon.com/-/es/dp/B07YNW3L2P/ref=sr_1_15?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=37EGEH1CWEW1N&dchild=1&keywords=teclado+mecanico&qid=1625867875&refinements=p_n_feature_fourteen_browse-bin%3A21465205011%2Cp_36%3A2500-3000&rnid=386453011&s=videogames&sprefix=teclado+%2Caps%2C316&sr=1-15" target="_blank">Redragon K509-RGB</a>
-- Headphones <a href="https://www.sony.es/electronics/diadema/wh-ch500" target="_blank">Sony WH-CH500</a>
-- External Dysplay: <a href="https://www.pccomponentes.com/xiaomi-mi-tv-4a-32-led-hd" target="_blank">Xiaomi Mi TV 4A</a>
-- Macbook Pro 13'' 2020 Case <a href="https://www.amazon.es/gp/product/B08C78PKTM/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1" target="_blank">MOSISO Hard Case</a>
+- ⌨️ External Mechanical Keyboard: <a href="https://www.amazon.com/-/es/dp/B07YNW3L2P/ref=sr_1_15?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=37EGEH1CWEW1N&dchild=1&keywords=teclado+mecanico&qid=1625867875&refinements=p_n_feature_fourteen_browse-bin%3A21465205011%2Cp_36%3A2500-3000&rnid=386453011&s=videogames&sprefix=teclado+%2Caps%2C316&sr=1-15" target="_blank">Redragon K509-RGB</a>
+- 🎧 Headphones <a href="https://www.sony.es/electronics/diadema/wh-ch500" target="_blank">Sony WH-CH500</a>
+- 🖥 External Dysplay: <a href="https://www.pccomponentes.com/xiaomi-mi-tv-4a-32-led-hd" target="_blank">Xiaomi Mi TV 4A</a>
+- 👝 Macbook Pro 13'' 2020 Case <a href="https://www.amazon.es/gp/product/B08C78PKTM/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1" target="_blank">MOSISO Hard Case</a>
 
-### System - Windows
+### ⚙️ System - Windows
 
 - Update Privacy Settings
 - <a href="https://github.com/vhanla/TaskbarDock">Customize</a> or hide the taskbar
   - Taskbar Order
-    - Explorer
+    - Windows Explorer
     - Firefox Developer Edition
     - Fluent Terminal
 - Apply Dark Theme
 - <a href="https://winaerotweaker.com/">Global Customization</a>
 - <a href="https://github.com/GabrielCrackPro/W10-Debloater">Debloat</a>
 
-### Desktop
+### 🌌 Desktop
 
 - Wallpapers - My personal collection of wallpapers
   - <a href="https://drive.google.com/drive/folders/18JwNTWYwK5xcWDfwWmcG69SPVEeNZEwD?usp=sharing" target="_blank">Drive</a>
@@ -94,14 +94,14 @@ All my configurations to setup a computer for personal use
 - WSL - Tool to run linux system on windows <a href="https://docs.microsoft.com/es-es/windows/wsl/install-win10">Windows</a>
   - Ubuntu - <a href="https://ubuntu.com/wsl">Dowmload</a>
 - Firefox Developer Edition - A web browser <a href="https://download.mozilla.org/?product=firefox-devedition-stub&os=win&lang=es-ES&attribution_code=c291cmNlPWR1Y2tkdWNrZ28uY29tJm1lZGl1bT1yZWZlcnJhbCZjYW1wYWlnbj0obm90IHNldCkmY29udGVudD0obm90IHNldCkmZXhwZXJpbWVudD0obm90IHNldCkmdmFyaWF0aW9uPShub3Qgc2V0KSZ1YT1maXJlZm94JnZpc2l0X2lkPShub3Qgc2V0KQ..&attribution_sig=6027a4aa26d767927d7d03c1c922fe132e811d4c20e2eaaac33ec1be9cd815d4">Windows</a> | <a href="https://download.mozilla.org/?product=firefox-latest-ssl&os=osx&lang=es-ES">MacOs</a>
-  - Extensions
+  - 🧩 Extensions
     - Tabliss - Custom new tab <a href="https://tabliss.io/">Add</a>
     - Enhancer for Youtube - Youtube customizer <a href="https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/">Add</a>
     - DuckDuckGo - Browser <a href="https://addons.mozilla.org/es/firefox/addon/duckduckgo-for-firefox/">Add</a>
     - FlagFox - See the server country flag <a href="https://addons.mozilla.org/es/firefox/addon/flagfox/">Add</a>
     - LastPass - Password Manager <a href="https://addons.mozilla.org/es/firefox/addon/lastpass-password-manager/">Add</a>
-  - Bookmarks
-    - DEV Utilities
+  - ⭐️ Bookmarks
+    - 👨🏻‍💻 DEV Utilities
       - <a href="https://1loc.dev">1LOC</a>
       - <a href="https://shields.io">Shields.io</a>
       - <a href="https://30secondsofcode.org">30 Seconds Of Code</a>
@@ -110,7 +110,7 @@ All my configurations to setup a computer for personal use
       - <a href="https://transform.tools">Transform Tools</a>
       - <a href="https://www.joshwcomeau.com/operator-lookup">JS Operator Lookup</a>
       - <a href="https://www.joshwcomeau.com/goodies">Josh Comeau Goodies</a>
-    - Others
+    - 🌏 Others
       - <a href="http://docs.google.com/document/d/1NeflsQZ1i7OnFW1hhSW37zde82VWrXHXrj6hySu7isY/edit">IFSCL Changelog</a>
       - <a href="http://codewars.com">Codewars</a>
       - <a href="https://cmacked.com">MacDrop</a>
@@ -149,16 +149,16 @@ $ echo "source $(brew --prefix)/opt/powerlevel10k/powerlevel10k.zsh-theme" >>~/.
 
 - Powerlevel10k config file <a href="https://github.com/GabrielCrackPro/Setup/blob/main/.p10k.zsh" target="_blank">here</a>
 
-- 🚀 Ohmyzsh plugins
+- 🧩 Ohmyzsh plugins - Install more plugins <a href="https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins">here</a>
 
-  - Git
-  - zsh-syntax-highlighting
-  - zsh-autosuggestions
-  - zsh history-enquirer
-  - jovial
-  - macos
-  - comand-time
-  - autojump
+  - <a href="https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git">git</a>
+  - <a href="https://github.com/chrissicool/zsh-256color">zsh-256colors</a>
+  - <a href="https://github.com/zsh-users/zsh-syntax-highlighting">zsh-syntax-highlighting</a>
+  - <a href="https://github.com/zsh-users/zsh-autosuggestions">zsh-autosuggestions</a>
+  - <a href="https://github.com/zthxxx/zsh-history-enquirer">zsh history-enquirer</a>
+  - <a href="https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/macos">macos</a>
+  - <a href="https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/autojump">autojump</a>
+  - <a href="https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/sudo">sudo</a>
 
 - Font <a href="https://github.com/microsoft/cascadia-code">Cascadia Code</a>
 - Tools
@@ -180,19 +180,19 @@ $ echo "source $(brew --prefix)/opt/powerlevel10k/powerlevel10k.zsh-theme" >>~/.
     ```sh
     $ brew install fortune
     ```
-    > TIP:You can combine fortune and cowsay running <code>fortune|cowsay</code>
+    > TIP - You can combine fortune and cowsay running <code>fortune|cowsay</code>
   - Neofetch - A tool to display system information <a href="https://github.com/dylanaraps/neofetch">Github Repo</a>
 
 ### 🚀 CLI Tools
 
-- <a href="https://github.com/sindresorhus/speed-test">speed-test</a> - A CLI tool to test your internet speed
-- <a href="https://github.com/sdushantha/qr-filetransfer">QR file transfer</a> - A CLI tool to transfer files via WI-FI
-- <a href="https://github.com/sherlock-project/sherlock">Sherlock</a> - A CLI tool to search users on social media
-- <a href="https://github.com/svenstaro/miniserve">Miniserve</a> - A CLI tool to serve files over HTTP
-- <a href="https://github.com/jarun/nnn">nnn</a> - A CLI tool to navigate through directories
+- <a href="https://github.com/sindresorhus/speed-test">speed-test</a> - CLI tool to test your internet speed
+- <a href="https://github.com/sdushantha/qr-filetransfer">QR file transfer</a> - CLI tool to transfer files via WI-FI
+- <a href="https://github.com/sherlock-project/sherlock">Sherlock</a> - CLI tool to search users on social media
+- <a href="https://github.com/svenstaro/miniserve">miniserve</a> - CLI tool to serve files over HTTP
+- <a href="https://github.com/jarun/nnn">nnn</a> - CLI tool to navigate through directories
 - <a href="https://github.com/Peltoche/lsd">lsd</a> - ls command enchanced
 - <a href="https://surge.sh">surge.sh</a> - CLI Tool to deploy static webpages
-- <a href="https://github.com/max-niederman/ttyper">ttyper</a> - Terminal based typing test
+- <a href="https://github.com/max-niederman/ttyper">ttyper</a> - CLI tool to practice typing
 
 ### 📝 Useful Scripts
 
@@ -203,7 +203,8 @@ $ echo "source $(brew --prefix)/opt/powerlevel10k/powerlevel10k.zsh-theme" >>~/.
 ### System - MacOs
 
 Inspired by <a href="https://www.youtube.com/watch?v=tMNOpaQrfAE">CodingGarden</a> <br>
-Check for updates first - <code>softwareupdate -l</code>
+
+> Check for updates - <code>softwareupdate -l</code>
 
 - Dock
   - Position: right
