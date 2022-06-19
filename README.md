@@ -11,17 +11,17 @@ All my configurations to setup a computer for personal use
 
 - Windows - <a href="https://www.amazon.es/Acer-Aspire-E15-Ordenador-Port%C3%A1til/dp/B01MYN9IRR" target="_blank">Acer Aspire E15</a>
   - O.S: Windows 10 20H2
-  - Processor: Intel i5 7200U
+  - CPU: Intel i5 7200U
+  - GPU: Nvidia GT940MX 2GB VRAM
   - RAM: 8GB DDR4
   - Storage: 1TB HDD
-  - GPU: Nvidia GT940MX 2GB VRAM
   - Screen Size: 15.6''
-- MacOS - <a href="https://www.apple.com/macbook-pro-13/" target="_blank">MacBook Pro 13'' M1 2020</a>
+- MacOS - <a href="https://www.amazon.es/Apple-MacBook-Pro-Chip-13-Pulgadas/dp/B08N5WRTN2" target="_blank">MacBook Pro 13'' M1 2020</a>
   - O.S: MacOs 12 Monterey
-  - Processor: M1
+  - CPU: M1
+  - GPU: M1
   - RAM: 8GB DDR4
   - Storage: 256GB SSD
-  - GPU: M1
   - Screen Size: 13.3''
   - Additional: TouchBar and TouchID
 
@@ -117,8 +117,13 @@ All my configurations to setup a computer for personal use
       - <a href="https://awesomeopensource.com">AwsomeOpenSource</a>
 - Fluent Terminal - A replacement for CMD <a href="https://github.com/felixse/FluentTerminal">Windows</a>
   - Zsh Shell - A comand shell
+    - Linux
+  ```sh
+  sudo apt-get install zsh
   ```
-  sudo apt-get install zsh / brew install zsh
+  - MacOs
+  ```sh
+  brew install zsh
   ```
 - Node.JS - A Javascipt framework <a href="https://nodejs.org/dist/v14.16.0/node-v14.16.0-x64.msi">Windows</a> | <a href="https://nodejs.org/dist/v14.16.0/node-v14.16.0.pkg">MacOs</a>
 - Python IDE - A IDE for work in Python <a href="https://www.python.org/downloads/windows/">Windows</a> | <a href="https://www.python.org/downloads/mac-osx/">MacOs</a>
@@ -131,18 +136,18 @@ All my configurations to setup a computer for personal use
 
 - Ohmyzsh - Tool for customize zsh shell <a href="https://ohmyz.sh/#install">Download</a> <br>
   Or run:
-  ```
+  ```sh
   $ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
   ```
   - Ohmyzsh custom themes <a href="https://zshthem.es/all/">here</a>
-- Theme <a href="https://github.com/romkatv/powerlevel10k" target="_blank">powerlevel10k</a> <br>
-- Config file <a href="https://github.com/GabrielCrackPro/Setup/blob/main/.p10k.zsh" target="_blank">here</a>
-  You can also install it using homebrew
+- Theme <a href="https://github.com/romkatv/powerlevel10k" target="_blank">powerlevel10k</a> - You can also install it using homebrew
 
+```sh
+$ brew install romkatv/powerlevel10k/powerlevel10k
+$ echo "source $(brew --prefix)/opt/powerlevel10k/powerlevel10k.zsh-theme" >>~/.zshrc
 ```
-brew install romkatv/powerlevel10k/powerlevel10k
-echo "source $(brew --prefix)/opt/powerlevel10k/powerlevel10k.zsh-theme" >>~/.zshrc
-```
+
+- Powerlevel10k config file <a href="https://github.com/GabrielCrackPro/Setup/blob/main/.p10k.zsh" target="_blank">here</a>
 
 - 🚀 Ohmyzsh plugins
 
@@ -158,14 +163,24 @@ echo "source $(brew --prefix)/opt/powerlevel10k/powerlevel10k.zsh-theme" >>~/.zs
 - Font <a href="https://github.com/microsoft/cascadia-code">Cascadia Code</a>
 - Tools
   - Cowsay - A configurable talking cow
-  ```
-  apt-get install cowsay OR brew install cowsay
-  ```
+    - Linux
+    ```sh
+    apt-get install cowsay
+    ```
+    - MacOs
+    ```sh
+    brew install cowsay
+    ```
   - Fortune - Tool to display random inspirational phrases
-  ```
-  apt-get install fortune OR brew install fortune
-  ```
-  TIP:You can combine fortune and cowsay running <code>fortune|cowsay</code>
+    - Linux
+    ```sh
+    apt-get install fortune
+    ```
+    - MacOs
+    ```sh
+    brew install fortune
+    ```
+    > TIP:You can combine fortune and cowsay running <code>fortune|cowsay</code>
   - Neofetch - A tool to display system information <a href="https://github.com/dylanaraps/neofetch">Github Repo</a>
 
 ### 🚀 CLI Tools
@@ -196,7 +211,7 @@ Check for updates first - <code>softwareupdate -l</code>
 - Mac exclusive apps
 
   - <a href="https://iterm2.com/downloads/stable/latest">iTerm2</a>
-  - <a href="https://cachefly.alfredapp.com/Alfred_4.3.2_1221.dmg">Alfred</a>
+  - <a href="https://cmacked.com/alfred-4">Alfred</a>
   - <a href="https://github.com/rxhanson/Rectangle/releases/download/v0.48/Rectangle0.48.dmg">Rectangle</a>
   - <a href="https://www.mediaatelier.com/CheatSheet/?lang=en">CheatSheet</a>
   - <a href="https://github.com/swiftbar/SwiftBar/releases/download/v1.4.0/SwiftBar.zip" target="_blank">SwiftBar</a>
@@ -208,8 +223,8 @@ Check for updates first - <code>softwareupdate -l</code>
   - <a href="https://github.com/Toxblh/MTMR/releases" target="_blank">MTMR - Customize Touchbar</a>
     - <a href="https://github.com/GabrielCrackPro/Setup/blob/main/mtmr.json" target="_blank">Custom preset</a>
 
-- Homebrew Package Manager
+- Homebrew Package Manager - <a href="https://brew.sh">brew.sh</a>
 
-```
+```sh
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
