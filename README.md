@@ -119,11 +119,11 @@ All my configurations to setup a computer for personal use
   - Zsh Shell - A comand shell
     - Linux
   ```sh
-  sudo apt-get install zsh
+  $ sudo apt-get install zsh
   ```
   - MacOs
   ```sh
-  brew install zsh
+  $ brew install zsh
   ```
 - Node.JS - A Javascipt framework <a href="https://nodejs.org/dist/v14.16.0/node-v14.16.0-x64.msi">Windows</a> | <a href="https://nodejs.org/dist/v14.16.0/node-v14.16.0.pkg">MacOs</a>
 - Python IDE - A IDE for work in Python <a href="https://www.python.org/downloads/windows/">Windows</a> | <a href="https://www.python.org/downloads/mac-osx/">MacOs</a>
@@ -165,20 +165,20 @@ $ echo "source $(brew --prefix)/opt/powerlevel10k/powerlevel10k.zsh-theme" >>~/.
   - Cowsay - A configurable talking cow
     - Linux
     ```sh
-    apt-get install cowsay
+    $ apt-get install cowsay
     ```
     - MacOs
     ```sh
-    brew install cowsay
+    $ brew install cowsay
     ```
   - Fortune - Tool to display random inspirational phrases
     - Linux
     ```sh
-    apt-get install fortune
+    $ apt-get install fortune
     ```
     - MacOs
     ```sh
-    brew install fortune
+    $ brew install fortune
     ```
     > TIP:You can combine fortune and cowsay running <code>fortune|cowsay</code>
   - Neofetch - A tool to display system information <a href="https://github.com/dylanaraps/neofetch">Github Repo</a>
@@ -226,5 +226,5 @@ Check for updates first - <code>softwareupdate -l</code>
 - Homebrew Package Manager - <a href="https://brew.sh">brew.sh</a>
 
 ```sh
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+$ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
