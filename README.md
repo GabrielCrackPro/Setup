@@ -126,6 +126,7 @@ All my configurations to setup a computer for personal use
   $ brew install zsh
   ```
 - Node.JS - A Javascipt framework <a href="https://nodejs.org/dist/v14.16.0/node-v14.16.0-x64.msi">Windows</a> | <a href="https://nodejs.org/dist/v14.16.0/node-v14.16.0.pkg">MacOs</a>
+- nvm - Node version manager <a href="https://github.com/nvm-sh/nvm">Github repo</a>
 - Python IDE - A IDE for work in Python <a href="https://www.python.org/downloads/windows/">Windows</a> | <a href="https://www.python.org/downloads/mac-osx/">MacOs</a>
 
 - Config files - <a href="http://www.github.com/GabrielCrackPro/dotfiles" target="_blank">dotfiles</a>
