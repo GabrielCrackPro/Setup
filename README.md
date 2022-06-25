@@ -62,6 +62,7 @@ All my configurations to setup a computer for personal use
 - WSCC - System control center <a href="https://www.kls-soft.com/wscc/downloads.php?dlf=wscc_setup.exe&dlt=WSCC%20(Setup)">Windows</a>
 - EarTrumpet - Combine all volume panels - <a href="https://www.microsoft.com/es-es/p/eartrumpet/9nblggh516xp?cid=eartrumpet.landing&rtc=1&activetab=pivot:overviewtab">Windows</a>
 - Ueli - Windows Alfred version <a href="https://github.com/oliverschwendener/ueli">Windows</a>
+- Strechly - Break timer <a href="https://github.com/hovancik/stretchly/releases/download/v1.10.0/Stretchly.Setup.1.10.0.exe">Windows</a> | <a href="https://github.com/hovancik/stretchly/releases/download/v1.10.0/Stretchly-1.10.0.dmg">MacOs</a>
 
 ### 🎮 Games
 
@@ -224,6 +225,11 @@ Inspired by <a href="https://www.youtube.com/watch?v=tMNOpaQrfAE">CodingGarden</
   - <a href="https://mac.getutm.app" target="_blank">UTM</a> - Tool to create virtual machines
   - <a href="https://github.com/Toxblh/MTMR/releases" target="_blank">MTMR</a> - Customize the touchbar
     - <a href="https://github.com/GabrielCrackPro/Setup/blob/main/mtmr.json" target="_blank">Custom preset</a>
+
+- Menu bar apps
+
+  - <a href="#">Dato</a> - Time and calendar app
+  - <a href="#">iStatMenus</a> - System stats on menubar
 
 - Homebrew Package Manager - <a href="https://brew.sh">brew.sh</a>
 
