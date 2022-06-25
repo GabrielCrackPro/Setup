@@ -228,8 +228,8 @@ Inspired by <a href="https://www.youtube.com/watch?v=tMNOpaQrfAE">CodingGarden</
 
 - Menu bar apps
 
-  - <a href="#">Dato</a> - Time and calendar app
-  - <a href="#">iStatMenus</a> - System stats on menubar
+  - <a href="https://cmacked.com/dato-better">Dato</a> - Time and calendar app
+  - <a href="https://cmacked.com/istat-menus">iStatMenus</a> - System stats on menubar
 
 - Homebrew Package Manager - <a href="https://brew.sh">brew.sh</a>
 
