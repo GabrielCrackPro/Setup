@@ -1,14 +1,11 @@
+# Fig pre block. Keep at the top of this file.
+[[ -f "$HOME/.fig/shell/zshrc.pre.zsh" ]] && . "$HOME/.fig/shell/zshrc.pre.zsh"
 # Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
 # Initialization code that may require console input (password prompts, [y/n]
 # confirmations, etc.) must go above this block; everything else may go below.
 if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]; then
   source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
 fi
-
-# Fig pre block. Keep at the top of this file.
-. "$HOME/.fig/shell/zshrc.pre.zsh"
-
-eval $(thefuck --alias)
 
 # If you come from bash you might have to change your $PATH. export PATH=$HOME/bin:/usr/local/bin:$PATH
 # Path to your oh-my-zsh installation.
@@ -18,7 +15,7 @@ export ZSH="/Users/gabrielvr/.oh-my-zsh"
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
-ZSH_THEME="sonicradish"
+# ZSH_THEME="powerlevel01k"
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
@@ -129,19 +126,19 @@ NC='\033[0m' # No Color
 alias zshconfig="vim ~/.zshrc"
 alias dev="cd ~/dev"
 alias express="express-cli-generator"
-alias rmds="sudo /opt/homebrew/bin/python3 /Users/gabrielvr/dev/dsstore-deleter/main.py /"
+alias rmds="sudo python3 /Users/gabrielvr/dev/dsstore-deleter/main.py /"
 alias cat="bat"
 alias ls="lsd"
-alias update="sh ~/dev/shell-scripts/update_all.sh"
+alias update="bash ~/dev/shell-scripts/update.sh"
 alias eman="tldr"
 alias spt="speed-test -v"
 alias clh="history -c"
 alias sql="mycli -u gabriel -ppreagaser"
 alias dump="sh ~/dev/db-data-extractor/script.sh"
 alias dmgi="sh ~/dev/dmg-installer/script.sh"
-alias rr="curl -s -L http://bit.ly/10hA8iC | bash"
 alias cra="npx create-react-app"
-alias h="howdoi"
+alias h="howdoi -c"
+alias top="vtop"
 alias 2048="sh ~/dev/bash-2048/bash2048.sh"
 
 export daw="cd ~/DAW" 
@@ -180,6 +177,7 @@ alias spst="spotify status"
 alias cld="sudo dscacheutil -flushcache; sudo killall -HUP mDNSResponder; echo 'DNS Cache cleaned'"
 # Get IP
 alias ip="curl icanhazip.com"
+
 # Custom comands at launch
 
 clear
@@ -191,7 +189,7 @@ echo -e "$c[green][ ⫸ ] Last login - $c[reset]${LAST_LOGIN}"
 
 # Display private IP
 
-IP="$(ifconfig | grep "192" | cut -b 7-19)"
+IP="$(ifconfig | grep "inet " | tr " " ":" | cut -d: -f2 | tail -n1)"
 echo -e "$c[green][ ⫸ ] Private IP - $c[reset]${IP}"
 
 # Display weather
@@ -219,6 +217,33 @@ RPROMPT="%{$c[green]%}( %D{%H:%M:%S} )%{$c[reset]%}"
 
 export COWFILES="/opt/homebrew/Cellar/cowsay/3.04_1/share/cows"
 
+# Custom functions
+
+# Create dev working directory
+function mkd(){
+mkdir -p $1/public 2>/dev/null
+if [ -d "$1/public" ];then
+	touch $1/public/index.html 2>/dev/null
+	touch $1/public/style.css 2>/dev/null
+	touch $1/public/app.js 2>/dev/null
+	echo "$c[green]Directory $1 created successfully$c[reset]"
+else
+	echo "$c[red]Error creating directory $1 $c[reset]"
+fi
+if [$2 == "node"];then
+ npm init -y --silent
+echo "nodejs project created successfully"
+fi
+
+}
+# zsh autosuggestions config
+
+AS_COLOR="#015c01"
+AS_WEIGHT="bold"
+AS_DECORATION="underline"
+
+export ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE="fg=${AS_COLOR},${AS_WEIGHT},${AS_DECORATION}"
+export ZSH_AUTOSUGGEST_STRATEGY=(history completion)
 
 test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell_integration.zsh"
 
@@ -226,7 +251,8 @@ test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
-# Fig post block. Keep at the bottom of this file.
-#. "$HOME/.fig/shell/zshrc.post.zsh"
 
 source /opt/homebrew/opt/powerlevel10k/powerlevel10k.zsh-theme
+
+# Fig post block. Keep at the bottom of this file.
+[[ -f "$HOME/.fig/shell/zshrc.post.zsh" ]] && . "$HOME/.fig/shell/zshrc.post.zsh"
