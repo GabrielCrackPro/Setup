@@ -129,25 +129,14 @@ alias express="express-cli-generator"
 alias rmds="sudo python3 /Users/gabrielvr/dev/dsstore-deleter/main.py /"
 alias cat="bat"
 alias ls="lsd"
-alias update="bash ~/dev/shell-scripts/update.sh"
+alias update="brew update && brew upgrade && brew cleanup --prune=all"
 alias eman="tldr"
 alias spt="speed-test -v"
 alias clh="history -c"
-alias sql="mycli -u gabriel -ppreagaser"
-alias dump="sh ~/dev/db-data-extractor/script.sh"
 alias dmgi="sh ~/dev/dmg-installer/script.sh"
 alias cra="npx create-react-app"
 alias h="howdoi -c"
 alias top="vtop"
-alias 2048="sh ~/dev/bash-2048/bash2048.sh"
-
-export daw="cd ~/DAW" 
-export bd="cd ~/DAW/Bases de datos" # Base de datos
-export en="cd ~/DAW/Entornos de desarrollo" # Entornos de desarrollo
-export pr="cd ~/DAW/Programación" # Programación
-export sin="cd ~/DAW/Sistemas informaticos" # Sistemas informáticos
-export fo="cd ~/DAW/FOL" # FOL
-export ing="cd ~/DAW/Inglés" # Inglés
 
 alias vpn="openvpn ~/VPN/vpnbook-pl226-tcp443.ovpn"
 
@@ -230,11 +219,6 @@ if [ -d "$1/public" ];then
 else
 	echo "$c[red]Error creating directory $1 $c[reset]"
 fi
-if [$2 == "node"];then
- npm init -y --silent
-echo "nodejs project created successfully"
-fi
-
 }
 # zsh autosuggestions config
 
