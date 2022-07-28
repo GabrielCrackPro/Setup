@@ -126,7 +126,7 @@ NC='\033[0m' # No Color
 alias zshconfig="vim ~/.zshrc"
 alias dev="cd ~/dev"
 alias express="express-cli-generator"
-alias rmds="sudo python3 /Users/gabrielvr/dev/dsstore-deleter/main.py /"
+alias rmds="sudo python3 ~/dev/dsstore-deleter/main.py /"
 alias cat="bat"
 alias ls="lsd"
 alias update="brew update && brew upgrade && brew cleanup --prune=all"
