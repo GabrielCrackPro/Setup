@@ -213,6 +213,7 @@ Inspired by <a href="https://www.youtube.com/watch?v=tMNOpaQrfAE">CodingGarden</
   - Auto Hide: On
 - Mac exclusive apps
 
+  - <a href="https://apps.cmacked.com/magnet">Magnet</a> - Manage windows positions
   - <a href="https://iterm2.com/downloads/stable/latest">iTerm2</a> - Terminal emulator
   - <a href="https://cmacked.com/alfred-4">Alfred</a> - Spolight replacement
   - <a href="https://www.raycast.com" target="_blank">Raycast</a> - Spolight replacement
@@ -223,6 +224,7 @@ Inspired by <a href="https://www.youtube.com/watch?v=tMNOpaQrfAE">CodingGarden</
   - <a href="https://bahoom.com/hyperswitch" target="_blank">HyperSwitch</a> - Window switcher
   - <a href="https://alt-tab-macos.netlify.app">AltTab</a> - Window switcher
   - <a href="https://mac.getutm.app" target="_blank">UTM</a> - Tool to create virtual machines
+  - <a href="https://github.com/MonitorControl/MonitorControl">MonitorControl</a> - Control multiple monitor settings
   - <a href="https://github.com/Toxblh/MTMR/releases" target="_blank">MTMR</a> - Customize the touchbar
     - <a href="https://github.com/GabrielCrackPro/Setup/blob/main/mtmr.json" target="_blank">Custom preset</a>
 
