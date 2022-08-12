@@ -1,10 +1,10 @@
 # Setup
 
 [![Profile Updated](https://img.shields.io/github/last-commit/GabrielCrackPro/Setup?color=00a10f&label=Setup%20updated&style=for-the-badge&labelColor=000)]()
+[![dotfiles](https://img.shields.io/badge/%F0%9F%93%9D-dotfiles-green?style=for-the-badge&labelColor=000)](https://github.com/GabrielCrackPro/dotfiles)
 
 [![Windows](https://img.shields.io/badge/acer%20Aspire%20E15-83B81A?style=for-the-badge&logo=acer&logoColor=white)]()
 [![MacOs](https://img.shields.io/badge/Apple-MacBook_Pro_2020_M1-000?style=for-the-badge&logo=apple&logoColor=white&labelColor=black)]()
-[![dotfiles](https://img.shields.io/badge/%F0%9F%93%9D-dotfiles-green?style=for-the-badge&labelColor=000)](https://github.com/GabrielCrackPro/dotfiles)
 
 All my configurations to setup a computer for personal use
 
